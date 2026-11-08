@@ -1,0 +1,52 @@
+[
+  {
+    "viewport": [
+      320,
+      568
+    ],
+    "summaryFontPx": 14,
+    "bottomContentReachable": true,
+    "closeAndResumePassed": true,
+    "pageErrors": []
+  },
+  {
+    "viewport": [
+      390,
+      844
+    ],
+    "summaryFontPx": 14,
+    "bottomContentReachable": true,
+    "closeAndResumePassed": true,
+    "pageErrors": []
+  },
+  {
+    "viewport": [
+      844,
+      390
+    ],
+    "summaryFontPx": 14,
+    "bottomContentReachable": true,
+    "closeAndResumePassed": true,
+    "pageErrors": []
+  },
+  {
+    "viewport": [
+      768,
+      1024
+    ],
+    "summaryFontPx": 14,
+    "bottomContentReachable": true,
+    "closeAndResumePassed": true,
+    "pageErrors": []
+  },
+  {
+    "viewport": [
+      1366,
+      768
+    ],
+    "summaryFontPx": 14,
+    "bottomContentReachable": true,
+    "closeAndResumePassed": true,
+    "pageErrors": []
+  }
+]

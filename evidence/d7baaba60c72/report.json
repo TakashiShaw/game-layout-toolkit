@@ -1,0 +1,1444 @@
+{
+  "url": "http://127.0.0.1:8138/?dev=1&manual=1",
+  "gameSelector": "#game",
+  "clicks": [
+    "#start"
+  ],
+  "browser": "Playwright Chromium; emulated viewports, not physical-device testing",
+  "results": [
+    {
+      "name": "phone-portrait",
+      "screenshot": "evidence/d7baaba60c72/phone-portrait.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "game": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 219.375,
+        "right": 390,
+        "bottom": 219.375
+      },
+      "coverage": 26,
+      "document": {
+        "width": 390,
+        "height": 844,
+        "horizontalOverflow": false,
+        "verticalOverflow": false
+      },
+      "controls": [
+        {
+          "selector": "#left-door",
+          "text": "A\nClose door",
+          "x": 11.6875,
+          "y": 192.09375,
+          "width": 55.75,
+          "height": 15.59375,
+          "right": 67.4375,
+          "bottom": 207.6875,
+          "insideGame": true,
+          "fontSize": 3.432,
+          "offscreen": false
+        },
+        {
+          "selector": "#left-light",
+          "text": "Q\nLight",
+          "x": 69.578125,
+          "y": 192.09375,
+          "width": 55.75,
+          "height": 15.59375,
+          "right": 125.328125,
+          "bottom": 207.6875,
+          "insideGame": true,
+          "fontSize": 3.432,
+          "offscreen": false
+        },
+        {
+          "selector": "#monitor-toggle",
+          "text": "Open monitor\nSPACE",
+          "x": 143.6875,
+          "y": 190.8125,
+          "width": 102.640625,
+          "height": 16.875,
+          "right": 246.328125,
+          "bottom": 207.6875,
+          "insideGame": true,
+          "fontSize": 3.6465,
+          "offscreen": false
+        },
+        {
+          "selector": "#right-light",
+          "text": "E\nLight",
+          "x": 264.671875,
+          "y": 192.09375,
+          "width": 55.75,
+          "height": 15.59375,
+          "right": 320.421875,
+          "bottom": 207.6875,
+          "insideGame": true,
+          "fontSize": 3.432,
+          "offscreen": false
+        },
+        {
+          "selector": "#right-door",
+          "text": "D\nClose door",
+          "x": 322.5625,
+          "y": 192.09375,
+          "width": 55.75,
+          "height": 15.59375,
+          "right": 378.3125,
+          "bottom": 207.6875,
+          "insideGame": true,
+          "fontSize": 3.432,
+          "offscreen": false
+        },
+        {
+          "selector": "#pause-button",
+          "text": "Pause [P]",
+          "x": 247.015625,
+          "y": 271.375,
+          "width": 54.015625,
+          "height": 22,
+          "right": 301.03125,
+          "bottom": 293.375,
+          "insideGame": false,
+          "fontSize": 10,
+          "offscreen": false
+        },
+        {
+          "selector": "#menu-button",
+          "text": "Menu ESC",
+          "x": 319.03125,
+          "y": 271.375,
+          "width": 56.96875,
+          "height": 22,
+          "right": 376,
+          "bottom": 293.375,
+          "insideGame": false,
+          "fontSize": 10,
+          "offscreen": false
+        },
+        {
+          "selector": "summary.",
+          "text": "SHIFT BRIEFING\nControls & survival notes",
+          "x": 13,
+          "y": 369.375,
+          "width": 364,
+          "height": 37,
+          "right": 377,
+          "bottom": 406.375,
+          "insideGame": false,
+          "fontSize": 8,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-speed",
+          "text": "Speed: 1\u00d7",
+          "x": 110.625,
+          "y": 443.375,
+          "width": 77.421875,
+          "height": 31,
+          "right": 188.046875,
+          "bottom": 474.375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-advance",
+          "text": "+10 seconds",
+          "x": 198.046875,
+          "y": 443.375,
+          "width": 90.625,
+          "height": 31,
+          "right": 288.671875,
+          "bottom": 474.375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-threat",
+          "text": "Bonnie at left door",
+          "x": 28,
+          "y": 484.375,
+          "width": 143.421875,
+          "height": 31,
+          "right": 171.421875,
+          "bottom": 515.375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-outage",
+          "text": "Drain power",
+          "x": 181.421875,
+          "y": 484.375,
+          "width": 90.625,
+          "height": 31,
+          "right": 272.046875,
+          "bottom": 515.375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-dawn",
+          "text": "5 seconds to dawn",
+          "x": 28,
+          "y": 525.375,
+          "width": 130.21875,
+          "height": 31,
+          "right": 158.21875,
+          "bottom": 556.375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": false
+        }
+      ],
+      "images": [
+        {
+          "selector": "#office-art",
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 219.375,
+          "right": 390,
+          "bottom": 219.375,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": [
+        {
+          "selector": "#activity",
+          "text": "Shift started. Check cameras, conserve power, and watch both doors."
+        },
+        {
+          "selector": "header.terminal-header",
+          "text": "F\nFAZBEAR ENTERTAINMENT\nSECURITY OPERATIONS / LOCAL TERMINAL\nNIGHT SHIFT\n// 01"
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.briefing-note",
+          "text": ""
+        },
+        {
+          "selector": "footer.terminal-footer",
+          "text": "LOCAL SURVIVAL PROTOTYPE\nNO SIGNAL LEAVES THIS TERMINAL"
+        }
+      ]
+    },
+    {
+      "name": "phone-landscape",
+      "screenshot": "evidence/d7baaba60c72/phone-landscape.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "game": {
+        "x": 75.328125,
+        "y": 0,
+        "width": 693.328125,
+        "height": 389.984375,
+        "right": 768.65625,
+        "bottom": 389.984375
+      },
+      "coverage": 82.1,
+      "document": {
+        "width": 844,
+        "height": 700,
+        "horizontalOverflow": false,
+        "verticalOverflow": true
+      },
+      "controls": [
+        {
+          "selector": "#left-door",
+          "text": "A\nClose door",
+          "x": 96.125,
+          "y": 350.515625,
+          "width": 95.84375,
+          "height": 22.84375,
+          "right": 191.96875,
+          "bottom": 373.359375,
+          "insideGame": true,
+          "fontSize": 6.10135,
+          "offscreen": false
+        },
+        {
+          "selector": "#left-light",
+          "text": "Q\nLight",
+          "x": 195.78125,
+          "y": 350.515625,
+          "width": 95.859375,
+          "height": 22.84375,
+          "right": 291.640625,
+          "bottom": 373.359375,
+          "insideGame": true,
+          "fontSize": 6.10135,
+          "offscreen": false
+        },
+        {
+          "selector": "#monitor-toggle",
+          "text": "Open monitor\nSPACE",
+          "x": 330.75,
+          "y": 348.421875,
+          "width": 182.484375,
+          "height": 24.9375,
+          "right": 513.234375,
+          "bottom": 373.359375,
+          "insideGame": true,
+          "fontSize": 6.48268,
+          "offscreen": false
+        },
+        {
+          "selector": "#right-light",
+          "text": "E\nLight",
+          "x": 552.34375,
+          "y": 350.515625,
+          "width": 95.84375,
+          "height": 22.84375,
+          "right": 648.1875,
+          "bottom": 373.359375,
+          "insideGame": true,
+          "fontSize": 6.10135,
+          "offscreen": false
+        },
+        {
+          "selector": "#right-door",
+          "text": "D\nClose door",
+          "x": 652,
+          "y": 350.515625,
+          "width": 95.859375,
+          "height": 22.84375,
+          "right": 747.859375,
+          "bottom": 373.359375,
+          "insideGame": true,
+          "fontSize": 6.10135,
+          "offscreen": false
+        },
+        {
+          "selector": "#pause-button",
+          "text": "Pause [P]",
+          "x": 703.015625,
+          "y": 397.984375,
+          "width": 54.015625,
+          "height": 22,
+          "right": 757.03125,
+          "bottom": 419.984375,
+          "insideGame": false,
+          "fontSize": 10,
+          "offscreen": true
+        },
+        {
+          "selector": "#menu-button",
+          "text": "Menu ESC",
+          "x": 775.03125,
+          "y": 397.984375,
+          "width": 56.96875,
+          "height": 22,
+          "right": 832,
+          "bottom": 419.984375,
+          "insideGame": false,
+          "fontSize": 10,
+          "offscreen": true
+        },
+        {
+          "selector": "summary.",
+          "text": "SHIFT BRIEFING\nControls & survival notes",
+          "x": 13,
+          "y": 495.984375,
+          "width": 818,
+          "height": 46,
+          "right": 831,
+          "bottom": 541.984375,
+          "insideGame": false,
+          "fontSize": 10,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-speed",
+          "text": "Speed: 1\u00d7",
+          "x": 110.625,
+          "y": 578.984375,
+          "width": 77.421875,
+          "height": 31,
+          "right": 188.046875,
+          "bottom": 609.984375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-advance",
+          "text": "+10 seconds",
+          "x": 198.046875,
+          "y": 578.984375,
+          "width": 90.625,
+          "height": 31,
+          "right": 288.671875,
+          "bottom": 609.984375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-threat",
+          "text": "Bonnie at left door",
+          "x": 298.671875,
+          "y": 578.984375,
+          "width": 143.421875,
+          "height": 31,
+          "right": 442.09375,
+          "bottom": 609.984375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-outage",
+          "text": "Drain power",
+          "x": 452.09375,
+          "y": 578.984375,
+          "width": 90.625,
+          "height": 31,
+          "right": 542.71875,
+          "bottom": 609.984375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-dawn",
+          "text": "5 seconds to dawn",
+          "x": 552.71875,
+          "y": 578.984375,
+          "width": 130.21875,
+          "height": 31,
+          "right": 682.9375,
+          "bottom": 609.984375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        }
+      ],
+      "images": [
+        {
+          "selector": "#office-art",
+          "x": 75.328125,
+          "y": 0,
+          "width": 693.328125,
+          "height": 389.984375,
+          "right": 768.65625,
+          "bottom": 389.984375,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": [
+        {
+          "selector": "#activity",
+          "text": "Shift started. Check cameras, conserve power, and watch both doors."
+        },
+        {
+          "selector": "header.terminal-header",
+          "text": "F\nFAZBEAR ENTERTAINMENT\nSECURITY OPERATIONS / LOCAL TERMINAL\nNIGHT SHIFT\n// 01"
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.briefing-note",
+          "text": ""
+        },
+        {
+          "selector": "footer.terminal-footer",
+          "text": "LOCAL SURVIVAL PROTOTYPE\nNO SIGNAL LEAVES THIS TERMINAL"
+        }
+      ]
+    },
+    {
+      "name": "tablet-portrait",
+      "screenshot": "evidence/d7baaba60c72/tablet-portrait.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "game": {
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 432,
+        "right": 768,
+        "bottom": 432
+      },
+      "coverage": 42.2,
+      "document": {
+        "width": 768,
+        "height": 1024,
+        "horizontalOverflow": false,
+        "verticalOverflow": false
+      },
+      "controls": [
+        {
+          "selector": "#left-door",
+          "text": "A\nClose door",
+          "x": 23.03125,
+          "y": 389.328125,
+          "width": 106.171875,
+          "height": 24.25,
+          "right": 129.203125,
+          "bottom": 413.578125,
+          "insideGame": true,
+          "fontSize": 6.7584,
+          "offscreen": false
+        },
+        {
+          "selector": "#left-light",
+          "text": "Q\nLight",
+          "x": 133.421875,
+          "y": 389.328125,
+          "width": 106.1875,
+          "height": 24.25,
+          "right": 239.609375,
+          "bottom": 413.578125,
+          "insideGame": true,
+          "fontSize": 6.7584,
+          "offscreen": false
+        },
+        {
+          "selector": "#monitor-toggle",
+          "text": "Open monitor\nSPACE",
+          "x": 282.9375,
+          "y": 387.015625,
+          "width": 202.140625,
+          "height": 26.5625,
+          "right": 485.078125,
+          "bottom": 413.578125,
+          "insideGame": true,
+          "fontSize": 7.1808,
+          "offscreen": false
+        },
+        {
+          "selector": "#right-light",
+          "text": "E\nLight",
+          "x": 528.390625,
+          "y": 389.328125,
+          "width": 106.171875,
+          "height": 24.25,
+          "right": 634.5625,
+          "bottom": 413.578125,
+          "insideGame": true,
+          "fontSize": 6.7584,
+          "offscreen": false
+        },
+        {
+          "selector": "#right-door",
+          "text": "D\nClose door",
+          "x": 638.78125,
+          "y": 389.328125,
+          "width": 106.1875,
+          "height": 24.25,
+          "right": 744.96875,
+          "bottom": 413.578125,
+          "insideGame": true,
+          "fontSize": 6.7584,
+          "offscreen": false
+        },
+        {
+          "selector": "#pause-button",
+          "text": "Pause [P]",
+          "x": 627.015625,
+          "y": 440,
+          "width": 54.015625,
+          "height": 22,
+          "right": 681.03125,
+          "bottom": 462,
+          "insideGame": false,
+          "fontSize": 10,
+          "offscreen": false
+        },
+        {
+          "selector": "#menu-button",
+          "text": "Menu ESC",
+          "x": 699.03125,
+          "y": 440,
+          "width": 56.96875,
+          "height": 22,
+          "right": 756,
+          "bottom": 462,
+          "insideGame": false,
+          "fontSize": 10,
+          "offscreen": false
+        },
+        {
+          "selector": "summary.",
+          "text": "SHIFT BRIEFING\nControls & survival notes",
+          "x": 13,
+          "y": 538,
+          "width": 742,
+          "height": 46,
+          "right": 755,
+          "bottom": 584,
+          "insideGame": false,
+          "fontSize": 10,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-speed",
+          "text": "Speed: 1\u00d7",
+          "x": 110.625,
+          "y": 621,
+          "width": 77.421875,
+          "height": 31,
+          "right": 188.046875,
+          "bottom": 652,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-advance",
+          "text": "+10 seconds",
+          "x": 198.046875,
+          "y": 621,
+          "width": 90.625,
+          "height": 31,
+          "right": 288.671875,
+          "bottom": 652,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-threat",
+          "text": "Bonnie at left door",
+          "x": 298.671875,
+          "y": 621,
+          "width": 143.421875,
+          "height": 31,
+          "right": 442.09375,
+          "bottom": 652,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-outage",
+          "text": "Drain power",
+          "x": 452.09375,
+          "y": 621,
+          "width": 90.625,
+          "height": 31,
+          "right": 542.71875,
+          "bottom": 652,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-dawn",
+          "text": "5 seconds to dawn",
+          "x": 552.71875,
+          "y": 621,
+          "width": 130.21875,
+          "height": 31,
+          "right": 682.9375,
+          "bottom": 652,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": false
+        }
+      ],
+      "images": [
+        {
+          "selector": "#office-art",
+          "x": 0,
+          "y": 0,
+          "width": 768,
+          "height": 432,
+          "right": 768,
+          "bottom": 432,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": [
+        {
+          "selector": "#activity",
+          "text": "Shift started. Check cameras, conserve power, and watch both doors."
+        },
+        {
+          "selector": "header.terminal-header",
+          "text": "F\nFAZBEAR ENTERTAINMENT\nSECURITY OPERATIONS / LOCAL TERMINAL\nNIGHT SHIFT\n// 01"
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.briefing-note",
+          "text": ""
+        },
+        {
+          "selector": "footer.terminal-footer",
+          "text": "LOCAL SURVIVAL PROTOTYPE\nNO SIGNAL LEAVES THIS TERMINAL"
+        }
+      ]
+    },
+    {
+      "name": "tablet-landscape",
+      "screenshot": "evidence/d7baaba60c72/tablet-landscape.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "game": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 576,
+        "right": 1024,
+        "bottom": 576
+      },
+      "coverage": 75,
+      "document": {
+        "width": 1024,
+        "height": 863,
+        "horizontalOverflow": false,
+        "verticalOverflow": true
+      },
+      "controls": [
+        {
+          "selector": "#left-door",
+          "text": "A\nClose door",
+          "x": 30.71875,
+          "y": 520.4375,
+          "width": 141.5625,
+          "height": 31,
+          "right": 172.28125,
+          "bottom": 551.4375,
+          "insideGame": true,
+          "fontSize": 9.0112,
+          "offscreen": false
+        },
+        {
+          "selector": "#left-light",
+          "text": "Q\nLight",
+          "x": 177.90625,
+          "y": 520.4375,
+          "width": 141.578125,
+          "height": 31,
+          "right": 319.484375,
+          "bottom": 551.4375,
+          "insideGame": true,
+          "fontSize": 9.0112,
+          "offscreen": false
+        },
+        {
+          "selector": "#monitor-toggle",
+          "text": "Open monitor\nSPACE",
+          "x": 377.25,
+          "y": 516.34375,
+          "width": 269.515625,
+          "height": 35.09375,
+          "right": 646.765625,
+          "bottom": 551.4375,
+          "insideGame": true,
+          "fontSize": 9.5744,
+          "offscreen": false
+        },
+        {
+          "selector": "#right-light",
+          "text": "E\nLight",
+          "x": 704.515625,
+          "y": 520.4375,
+          "width": 141.5625,
+          "height": 31,
+          "right": 846.078125,
+          "bottom": 551.4375,
+          "insideGame": true,
+          "fontSize": 9.0112,
+          "offscreen": false
+        },
+        {
+          "selector": "#right-door",
+          "text": "D\nClose door",
+          "x": 851.703125,
+          "y": 520.4375,
+          "width": 141.578125,
+          "height": 31,
+          "right": 993.28125,
+          "bottom": 551.4375,
+          "insideGame": true,
+          "fontSize": 9.0112,
+          "offscreen": false
+        },
+        {
+          "selector": "#pause-button",
+          "text": "Pause [P]",
+          "x": 883.015625,
+          "y": 584,
+          "width": 54.015625,
+          "height": 22,
+          "right": 937.03125,
+          "bottom": 606,
+          "insideGame": false,
+          "fontSize": 10,
+          "offscreen": false
+        },
+        {
+          "selector": "#menu-button",
+          "text": "Menu ESC",
+          "x": 955.03125,
+          "y": 584,
+          "width": 56.96875,
+          "height": 22,
+          "right": 1012,
+          "bottom": 606,
+          "insideGame": false,
+          "fontSize": 10,
+          "offscreen": false
+        },
+        {
+          "selector": "summary.",
+          "text": "SHIFT BRIEFING\nControls & survival notes",
+          "x": 13,
+          "y": 682,
+          "width": 998,
+          "height": 46,
+          "right": 1011,
+          "bottom": 728,
+          "insideGame": false,
+          "fontSize": 10,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-speed",
+          "text": "Speed: 1\u00d7",
+          "x": 110.625,
+          "y": 765,
+          "width": 77.421875,
+          "height": 31,
+          "right": 188.046875,
+          "bottom": 796,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-advance",
+          "text": "+10 seconds",
+          "x": 198.046875,
+          "y": 765,
+          "width": 90.625,
+          "height": 31,
+          "right": 288.671875,
+          "bottom": 796,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-threat",
+          "text": "Bonnie at left door",
+          "x": 298.671875,
+          "y": 765,
+          "width": 143.421875,
+          "height": 31,
+          "right": 442.09375,
+          "bottom": 796,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-outage",
+          "text": "Drain power",
+          "x": 452.09375,
+          "y": 765,
+          "width": 90.625,
+          "height": 31,
+          "right": 542.71875,
+          "bottom": 796,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-dawn",
+          "text": "5 seconds to dawn",
+          "x": 552.71875,
+          "y": 765,
+          "width": 130.21875,
+          "height": 31,
+          "right": 682.9375,
+          "bottom": 796,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        }
+      ],
+      "images": [
+        {
+          "selector": "#office-art",
+          "x": 0,
+          "y": 0,
+          "width": 1024,
+          "height": 576,
+          "right": 1024,
+          "bottom": 576,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": [
+        {
+          "selector": "#activity",
+          "text": "Shift started. Check cameras, conserve power, and watch both doors."
+        },
+        {
+          "selector": "header.terminal-header",
+          "text": "F\nFAZBEAR ENTERTAINMENT\nSECURITY OPERATIONS / LOCAL TERMINAL\nNIGHT SHIFT\n// 01"
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.briefing-note",
+          "text": ""
+        },
+        {
+          "selector": "footer.terminal-footer",
+          "text": "LOCAL SURVIVAL PROTOTYPE\nNO SIGNAL LEAVES THIS TERMINAL"
+        }
+      ]
+    },
+    {
+      "name": "laptop",
+      "screenshot": "evidence/d7baaba60c72/laptop.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 1366,
+        "height": 768
+      },
+      "game": {
+        "x": 0.328125,
+        "y": 0,
+        "width": 1365.328125,
+        "height": 767.984375,
+        "right": 1365.65625,
+        "bottom": 767.984375
+      },
+      "coverage": 99.9,
+      "document": {
+        "width": 1366,
+        "height": 1055,
+        "horizontalOverflow": false,
+        "verticalOverflow": true
+      },
+      "controls": [
+        {
+          "selector": "#left-door",
+          "text": "A\nClose door",
+          "x": 41.28125,
+          "y": 695.875,
+          "width": 188.75,
+          "height": 39.34375,
+          "right": 230.03125,
+          "bottom": 735.21875,
+          "insideGame": true,
+          "fontSize": 12.015,
+          "offscreen": false
+        },
+        {
+          "selector": "#left-light",
+          "text": "Q\nLight",
+          "x": 237.53125,
+          "y": 695.875,
+          "width": 188.765625,
+          "height": 39.34375,
+          "right": 426.296875,
+          "bottom": 735.21875,
+          "insideGame": true,
+          "fontSize": 12.015,
+          "offscreen": false
+        },
+        {
+          "selector": "#monitor-toggle",
+          "text": "Open monitor\nSPACE",
+          "x": 503.328125,
+          "y": 689.71875,
+          "width": 359.34375,
+          "height": 45.5,
+          "right": 862.671875,
+          "bottom": 735.21875,
+          "insideGame": true,
+          "fontSize": 12.7659,
+          "offscreen": false
+        },
+        {
+          "selector": "#right-light",
+          "text": "E\nLight",
+          "x": 939.6875,
+          "y": 695.875,
+          "width": 188.75,
+          "height": 39.34375,
+          "right": 1128.4375,
+          "bottom": 735.21875,
+          "insideGame": true,
+          "fontSize": 12.015,
+          "offscreen": false
+        },
+        {
+          "selector": "#right-door",
+          "text": "D\nClose door",
+          "x": 1135.9375,
+          "y": 695.875,
+          "width": 188.765625,
+          "height": 39.34375,
+          "right": 1324.703125,
+          "bottom": 735.21875,
+          "insideGame": true,
+          "fontSize": 12.015,
+          "offscreen": false
+        },
+        {
+          "selector": "#pause-button",
+          "text": "Pause [P]",
+          "x": 1174.015625,
+          "y": 775.984375,
+          "width": 54.015625,
+          "height": 22,
+          "right": 1228.03125,
+          "bottom": 797.984375,
+          "insideGame": false,
+          "fontSize": 10,
+          "offscreen": true
+        },
+        {
+          "selector": "#menu-button",
+          "text": "Menu ESC",
+          "x": 1246.03125,
+          "y": 775.984375,
+          "width": 56.96875,
+          "height": 22,
+          "right": 1303,
+          "bottom": 797.984375,
+          "insideGame": false,
+          "fontSize": 10,
+          "offscreen": true
+        },
+        {
+          "selector": "summary.",
+          "text": "SHIFT BRIEFING\nControls & survival notes",
+          "x": 64,
+          "y": 873.984375,
+          "width": 1238,
+          "height": 46,
+          "right": 1302,
+          "bottom": 919.984375,
+          "insideGame": false,
+          "fontSize": 10,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-speed",
+          "text": "Speed: 1\u00d7",
+          "x": 161.625,
+          "y": 956.984375,
+          "width": 77.421875,
+          "height": 31,
+          "right": 239.046875,
+          "bottom": 987.984375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-advance",
+          "text": "+10 seconds",
+          "x": 249.046875,
+          "y": 956.984375,
+          "width": 90.625,
+          "height": 31,
+          "right": 339.671875,
+          "bottom": 987.984375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-threat",
+          "text": "Bonnie at left door",
+          "x": 349.671875,
+          "y": 956.984375,
+          "width": 143.421875,
+          "height": 31,
+          "right": 493.09375,
+          "bottom": 987.984375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-outage",
+          "text": "Drain power",
+          "x": 503.09375,
+          "y": 956.984375,
+          "width": 90.625,
+          "height": 31,
+          "right": 593.71875,
+          "bottom": 987.984375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-dawn",
+          "text": "5 seconds to dawn",
+          "x": 603.71875,
+          "y": 956.984375,
+          "width": 130.21875,
+          "height": 31,
+          "right": 733.9375,
+          "bottom": 987.984375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        }
+      ],
+      "images": [
+        {
+          "selector": "#office-art",
+          "x": 0.328125,
+          "y": 0,
+          "width": 1365.328125,
+          "height": 767.984375,
+          "right": 1365.65625,
+          "bottom": 767.984375,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": [
+        {
+          "selector": "#activity",
+          "text": "Shift started. Check cameras, conserve power, and watch both doors."
+        },
+        {
+          "selector": "header.terminal-header",
+          "text": "F\nFAZBEAR ENTERTAINMENT\nSECURITY OPERATIONS / LOCAL TERMINAL\nNIGHT SHIFT\n// 01"
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.briefing-note",
+          "text": ""
+        },
+        {
+          "selector": "footer.terminal-footer",
+          "text": "LOCAL SURVIVAL PROTOTYPE\nNO SIGNAL LEAVES THIS TERMINAL"
+        }
+      ]
+    },
+    {
+      "name": "desktop",
+      "screenshot": "evidence/d7baaba60c72/desktop.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "game": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "right": 1920,
+        "bottom": 1080
+      },
+      "coverage": 100,
+      "document": {
+        "width": 1920,
+        "height": 1367,
+        "horizontalOverflow": false,
+        "verticalOverflow": true
+      },
+      "controls": [
+        {
+          "selector": "#left-door",
+          "text": "A\nClose door",
+          "x": 57.59375,
+          "y": 979.265625,
+          "width": 265.4375,
+          "height": 54.65625,
+          "right": 323.03125,
+          "bottom": 1033.921875,
+          "insideGame": true,
+          "fontSize": 16.896,
+          "offscreen": false
+        },
+        {
+          "selector": "#left-light",
+          "text": "Q\nLight",
+          "x": 333.578125,
+          "y": 979.265625,
+          "width": 265.453125,
+          "height": 54.65625,
+          "right": 599.03125,
+          "bottom": 1033.921875,
+          "insideGame": true,
+          "fontSize": 16.896,
+          "offscreen": false
+        },
+        {
+          "selector": "#monitor-toggle",
+          "text": "Open monitor\nSPACE",
+          "x": 707.328125,
+          "y": 972.453125,
+          "width": 505.34375,
+          "height": 61.46875,
+          "right": 1212.671875,
+          "bottom": 1033.921875,
+          "insideGame": true,
+          "fontSize": 17.952,
+          "offscreen": false
+        },
+        {
+          "selector": "#right-light",
+          "text": "E\nLight",
+          "x": 1320.96875,
+          "y": 979.265625,
+          "width": 265.4375,
+          "height": 54.65625,
+          "right": 1586.40625,
+          "bottom": 1033.921875,
+          "insideGame": true,
+          "fontSize": 16.896,
+          "offscreen": false
+        },
+        {
+          "selector": "#right-door",
+          "text": "D\nClose door",
+          "x": 1596.953125,
+          "y": 979.265625,
+          "width": 265.453125,
+          "height": 54.65625,
+          "right": 1862.40625,
+          "bottom": 1033.921875,
+          "insideGame": true,
+          "fontSize": 16.896,
+          "offscreen": false
+        },
+        {
+          "selector": "#pause-button",
+          "text": "Pause [P]",
+          "x": 1451.015625,
+          "y": 1088,
+          "width": 54.015625,
+          "height": 22,
+          "right": 1505.03125,
+          "bottom": 1110,
+          "insideGame": false,
+          "fontSize": 10,
+          "offscreen": true
+        },
+        {
+          "selector": "#menu-button",
+          "text": "Menu ESC",
+          "x": 1523.03125,
+          "y": 1088,
+          "width": 56.96875,
+          "height": 22,
+          "right": 1580,
+          "bottom": 1110,
+          "insideGame": false,
+          "fontSize": 10,
+          "offscreen": true
+        },
+        {
+          "selector": "summary.",
+          "text": "SHIFT BRIEFING\nControls & survival notes",
+          "x": 341,
+          "y": 1186,
+          "width": 1238,
+          "height": 46,
+          "right": 1579,
+          "bottom": 1232,
+          "insideGame": false,
+          "fontSize": 10,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-speed",
+          "text": "Speed: 1\u00d7",
+          "x": 438.625,
+          "y": 1269,
+          "width": 77.421875,
+          "height": 31,
+          "right": 516.046875,
+          "bottom": 1300,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-advance",
+          "text": "+10 seconds",
+          "x": 526.046875,
+          "y": 1269,
+          "width": 90.625,
+          "height": 31,
+          "right": 616.671875,
+          "bottom": 1300,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-threat",
+          "text": "Bonnie at left door",
+          "x": 626.671875,
+          "y": 1269,
+          "width": 143.421875,
+          "height": 31,
+          "right": 770.09375,
+          "bottom": 1300,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-outage",
+          "text": "Drain power",
+          "x": 780.09375,
+          "y": 1269,
+          "width": 90.625,
+          "height": 31,
+          "right": 870.71875,
+          "bottom": 1300,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-dawn",
+          "text": "5 seconds to dawn",
+          "x": 880.71875,
+          "y": 1269,
+          "width": 130.21875,
+          "height": 31,
+          "right": 1010.9375,
+          "bottom": 1300,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        }
+      ],
+      "images": [
+        {
+          "selector": "#office-art",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080,
+          "right": 1920,
+          "bottom": 1080,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": [
+        {
+          "selector": "#activity",
+          "text": "Shift started. Check cameras, conserve power, and watch both doors."
+        },
+        {
+          "selector": "header.terminal-header",
+          "text": "F\nFAZBEAR ENTERTAINMENT\nSECURITY OPERATIONS / LOCAL TERMINAL\nNIGHT SHIFT\n// 01"
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.briefing-note",
+          "text": ""
+        },
+        {
+          "selector": "footer.terminal-footer",
+          "text": "LOCAL SURVIVAL PROTOTYPE\nNO SIGNAL LEAVES THIS TERMINAL"
+        }
+      ]
+    }
+  ]
+}

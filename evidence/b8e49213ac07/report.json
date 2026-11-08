@@ -1,0 +1,958 @@
+{
+  "url": "http://127.0.0.1:8138/?dev=1&manual=1",
+  "gameSelector": "#game",
+  "clicks": [
+    "#help-open"
+  ],
+  "browser": "Playwright Chromium; emulated viewports, not physical-device testing",
+  "results": [
+    {
+      "name": "phone-portrait",
+      "screenshot": "evidence/b8e49213ac07/phone-portrait.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "game": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "right": 390,
+        "bottom": 844
+      },
+      "coverage": 100,
+      "document": {
+        "width": 390,
+        "height": 844,
+        "horizontalOverflow": false,
+        "verticalOverflow": false
+      },
+      "controls": [
+        {
+          "selector": "#start",
+          "text": "Start Night 1\n\u2197",
+          "x": 27.296875,
+          "y": 387.859375,
+          "width": 335.390625,
+          "height": 64,
+          "right": 362.6875,
+          "bottom": 451.859375,
+          "insideGame": true,
+          "fontSize": 16,
+          "offscreen": false
+        },
+        {
+          "selector": "#help-open",
+          "text": "How to play",
+          "x": 258.171875,
+          "y": 12,
+          "width": 115.828125,
+          "height": 44,
+          "right": 374,
+          "bottom": 56,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        },
+        {
+          "selector": "#help-close",
+          "text": "Back to game",
+          "x": 236.390625,
+          "y": 44.90625,
+          "width": 115.609375,
+          "height": 44,
+          "right": 352,
+          "bottom": 88.90625,
+          "insideGame": true,
+          "fontSize": 14,
+          "offscreen": false
+        },
+        {
+          "selector": "summary.",
+          "text": "SHIFT BRIEFING\nControls & survival notes",
+          "x": 39,
+          "y": 153.8125,
+          "width": 312,
+          "height": 37,
+          "right": 351,
+          "bottom": 190.8125,
+          "insideGame": true,
+          "fontSize": 8,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-speed",
+          "text": "Speed: 1\u00d7",
+          "x": 136.625,
+          "y": 673.15625,
+          "width": 77.421875,
+          "height": 44,
+          "right": 214.046875,
+          "bottom": 717.15625,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-advance",
+          "text": "+10 seconds",
+          "x": 224.046875,
+          "y": 673.15625,
+          "width": 90.625,
+          "height": 44,
+          "right": 314.671875,
+          "bottom": 717.15625,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-threat",
+          "text": "Bonnie at left door",
+          "x": 54,
+          "y": 727.15625,
+          "width": 143.421875,
+          "height": 44,
+          "right": 197.421875,
+          "bottom": 771.15625,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-outage",
+          "text": "Drain power",
+          "x": 207.421875,
+          "y": 727.15625,
+          "width": 90.625,
+          "height": 44,
+          "right": 298.046875,
+          "bottom": 771.15625,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-dawn",
+          "text": "5 seconds to dawn",
+          "x": 54,
+          "y": 781.15625,
+          "width": 130.21875,
+          "height": 44,
+          "right": 184.21875,
+          "bottom": 825.15625,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": false
+        }
+      ],
+      "images": [
+        {
+          "selector": "#title-art",
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844,
+          "right": 390,
+          "bottom": 844,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": []
+    },
+    {
+      "name": "phone-landscape",
+      "screenshot": "evidence/b8e49213ac07/phone-landscape.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "game": {
+        "x": 0,
+        "y": 0,
+        "width": 844,
+        "height": 390,
+        "right": 844,
+        "bottom": 390
+      },
+      "coverage": 100,
+      "document": {
+        "width": 844,
+        "height": 390,
+        "horizontalOverflow": false,
+        "verticalOverflow": false
+      },
+      "controls": [
+        {
+          "selector": "#start",
+          "text": "Start Night 1\n\u2197",
+          "x": 50.625,
+          "y": 190.546875,
+          "width": 220,
+          "height": 48,
+          "right": 270.625,
+          "bottom": 238.546875,
+          "insideGame": true,
+          "fontSize": 16,
+          "offscreen": false
+        },
+        {
+          "selector": "#help-open",
+          "text": "How to play",
+          "x": 712.171875,
+          "y": 12,
+          "width": 115.828125,
+          "height": 44,
+          "right": 828,
+          "bottom": 56,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        },
+        {
+          "selector": "#help-close",
+          "text": "Back to game",
+          "x": 665.390625,
+          "y": 44.90625,
+          "width": 115.609375,
+          "height": 44,
+          "right": 781,
+          "bottom": 88.90625,
+          "insideGame": true,
+          "fontSize": 14,
+          "offscreen": false
+        },
+        {
+          "selector": "summary.",
+          "text": "SHIFT BRIEFING\nControls & survival notes",
+          "x": 64,
+          "y": 155.8125,
+          "width": 716,
+          "height": 46,
+          "right": 780,
+          "bottom": 201.8125,
+          "insideGame": true,
+          "fontSize": 10,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-speed",
+          "text": "Speed: 1\u00d7",
+          "x": 161.625,
+          "y": 447.484375,
+          "width": 77.421875,
+          "height": 44,
+          "right": 239.046875,
+          "bottom": 491.484375,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-advance",
+          "text": "+10 seconds",
+          "x": 249.046875,
+          "y": 447.484375,
+          "width": 90.625,
+          "height": 44,
+          "right": 339.671875,
+          "bottom": 491.484375,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-threat",
+          "text": "Bonnie at left door",
+          "x": 349.671875,
+          "y": 447.484375,
+          "width": 143.421875,
+          "height": 44,
+          "right": 493.09375,
+          "bottom": 491.484375,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-outage",
+          "text": "Drain power",
+          "x": 503.09375,
+          "y": 447.484375,
+          "width": 90.625,
+          "height": 44,
+          "right": 593.71875,
+          "bottom": 491.484375,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-dawn",
+          "text": "5 seconds to dawn",
+          "x": 603.71875,
+          "y": 447.484375,
+          "width": 130.21875,
+          "height": 44,
+          "right": 733.9375,
+          "bottom": 491.484375,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": true
+        }
+      ],
+      "images": [
+        {
+          "selector": "#title-art",
+          "x": 0,
+          "y": 0,
+          "width": 844,
+          "height": 390,
+          "right": 844,
+          "bottom": 390,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": []
+    },
+    {
+      "name": "tablet-portrait",
+      "screenshot": "evidence/b8e49213ac07/tablet-portrait.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "game": {
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 1024,
+        "right": 768,
+        "bottom": 1024
+      },
+      "coverage": 100,
+      "document": {
+        "width": 768,
+        "height": 1024,
+        "horizontalOverflow": false,
+        "verticalOverflow": false
+      },
+      "controls": [
+        {
+          "selector": "#start",
+          "text": "Start Night 1\n\u2197",
+          "x": 53.75,
+          "y": 384.15625,
+          "width": 191.53125,
+          "height": 64,
+          "right": 245.28125,
+          "bottom": 448.15625,
+          "insideGame": true,
+          "fontSize": 16,
+          "offscreen": false
+        },
+        {
+          "selector": "#help-open",
+          "text": "How to play",
+          "x": 636.171875,
+          "y": 12,
+          "width": 115.828125,
+          "height": 44,
+          "right": 752,
+          "bottom": 56,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        },
+        {
+          "selector": "#help-close",
+          "text": "Back to game",
+          "x": 614.390625,
+          "y": 262.65625,
+          "width": 115.609375,
+          "height": 44,
+          "right": 730,
+          "bottom": 306.65625,
+          "insideGame": true,
+          "fontSize": 14,
+          "offscreen": false
+        },
+        {
+          "selector": "summary.",
+          "text": "SHIFT BRIEFING\nControls & survival notes",
+          "x": 39,
+          "y": 373.5625,
+          "width": 690,
+          "height": 46,
+          "right": 729,
+          "bottom": 419.5625,
+          "insideGame": true,
+          "fontSize": 10,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-speed",
+          "text": "Speed: 1\u00d7",
+          "x": 136.625,
+          "y": 665.234375,
+          "width": 77.421875,
+          "height": 44,
+          "right": 214.046875,
+          "bottom": 709.234375,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-advance",
+          "text": "+10 seconds",
+          "x": 224.046875,
+          "y": 665.234375,
+          "width": 90.625,
+          "height": 44,
+          "right": 314.671875,
+          "bottom": 709.234375,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-threat",
+          "text": "Bonnie at left door",
+          "x": 324.671875,
+          "y": 665.234375,
+          "width": 143.421875,
+          "height": 44,
+          "right": 468.09375,
+          "bottom": 709.234375,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-outage",
+          "text": "Drain power",
+          "x": 478.09375,
+          "y": 665.234375,
+          "width": 90.625,
+          "height": 44,
+          "right": 568.71875,
+          "bottom": 709.234375,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-dawn",
+          "text": "5 seconds to dawn",
+          "x": 578.71875,
+          "y": 665.234375,
+          "width": 130.21875,
+          "height": 44,
+          "right": 708.9375,
+          "bottom": 709.234375,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": false
+        }
+      ],
+      "images": [
+        {
+          "selector": "#title-art",
+          "x": 0,
+          "y": 0,
+          "width": 768,
+          "height": 1024,
+          "right": 768,
+          "bottom": 1024,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": []
+    },
+    {
+      "name": "tablet-landscape",
+      "screenshot": "evidence/b8e49213ac07/tablet-landscape.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "game": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 768,
+        "right": 1024,
+        "bottom": 768
+      },
+      "coverage": 100,
+      "document": {
+        "width": 1024,
+        "height": 768,
+        "horizontalOverflow": false,
+        "verticalOverflow": false
+      },
+      "controls": [
+        {
+          "selector": "#start",
+          "text": "Start Night 1\n\u2197",
+          "x": 71.671875,
+          "y": 390.078125,
+          "width": 191.53125,
+          "height": 64,
+          "right": 263.203125,
+          "bottom": 454.078125,
+          "insideGame": true,
+          "fontSize": 16,
+          "offscreen": false
+        },
+        {
+          "selector": "#help-open",
+          "text": "How to play",
+          "x": 892.171875,
+          "y": 12,
+          "width": 115.828125,
+          "height": 44,
+          "right": 1008,
+          "bottom": 56,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        },
+        {
+          "selector": "#help-close",
+          "text": "Back to game",
+          "x": 755.390625,
+          "y": 134.65625,
+          "width": 115.609375,
+          "height": 44,
+          "right": 871,
+          "bottom": 178.65625,
+          "insideGame": true,
+          "fontSize": 14,
+          "offscreen": false
+        },
+        {
+          "selector": "summary.",
+          "text": "SHIFT BRIEFING\nControls & survival notes",
+          "x": 154,
+          "y": 245.5625,
+          "width": 716,
+          "height": 46,
+          "right": 870,
+          "bottom": 291.5625,
+          "insideGame": true,
+          "fontSize": 10,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-speed",
+          "text": "Speed: 1\u00d7",
+          "x": 251.625,
+          "y": 537.234375,
+          "width": 77.421875,
+          "height": 44,
+          "right": 329.046875,
+          "bottom": 581.234375,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-advance",
+          "text": "+10 seconds",
+          "x": 339.046875,
+          "y": 537.234375,
+          "width": 90.625,
+          "height": 44,
+          "right": 429.671875,
+          "bottom": 581.234375,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-threat",
+          "text": "Bonnie at left door",
+          "x": 439.671875,
+          "y": 537.234375,
+          "width": 143.421875,
+          "height": 44,
+          "right": 583.09375,
+          "bottom": 581.234375,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-outage",
+          "text": "Drain power",
+          "x": 593.09375,
+          "y": 537.234375,
+          "width": 90.625,
+          "height": 44,
+          "right": 683.71875,
+          "bottom": 581.234375,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-dawn",
+          "text": "5 seconds to dawn",
+          "x": 693.71875,
+          "y": 537.234375,
+          "width": 130.21875,
+          "height": 44,
+          "right": 823.9375,
+          "bottom": 581.234375,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": false
+        }
+      ],
+      "images": [
+        {
+          "selector": "#title-art",
+          "x": 0,
+          "y": 0,
+          "width": 1024,
+          "height": 768,
+          "right": 1024,
+          "bottom": 768,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": []
+    },
+    {
+      "name": "laptop",
+      "screenshot": "evidence/b8e49213ac07/laptop.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 1366,
+        "height": 768
+      },
+      "game": {
+        "x": 0,
+        "y": 0,
+        "width": 1366,
+        "height": 768,
+        "right": 1366,
+        "bottom": 768
+      },
+      "coverage": 100,
+      "document": {
+        "width": 1366,
+        "height": 768,
+        "horizontalOverflow": false,
+        "verticalOverflow": false
+      },
+      "controls": [
+        {
+          "selector": "#start",
+          "text": "Start Night 1\n\u2197",
+          "x": 95.609375,
+          "y": 449.34375,
+          "width": 191.53125,
+          "height": 64,
+          "right": 287.140625,
+          "bottom": 513.34375,
+          "insideGame": true,
+          "fontSize": 16,
+          "offscreen": false
+        },
+        {
+          "selector": "#help-open",
+          "text": "How to play",
+          "x": 1234.171875,
+          "y": 12,
+          "width": 115.828125,
+          "height": 44,
+          "right": 1350,
+          "bottom": 56,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        },
+        {
+          "selector": "#help-close",
+          "text": "Back to game",
+          "x": 920.15625,
+          "y": 134.65625,
+          "width": 121.84375,
+          "height": 44,
+          "right": 1042,
+          "bottom": 178.65625,
+          "insideGame": true,
+          "fontSize": 15.026,
+          "offscreen": false
+        },
+        {
+          "selector": "summary.",
+          "text": "SHIFT BRIEFING\nControls & survival notes",
+          "x": 325,
+          "y": 245.5625,
+          "width": 716,
+          "height": 46,
+          "right": 1041,
+          "bottom": 291.5625,
+          "insideGame": true,
+          "fontSize": 10,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-speed",
+          "text": "Speed: 1\u00d7",
+          "x": 422.625,
+          "y": 537.234375,
+          "width": 77.421875,
+          "height": 44,
+          "right": 500.046875,
+          "bottom": 581.234375,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-advance",
+          "text": "+10 seconds",
+          "x": 510.046875,
+          "y": 537.234375,
+          "width": 90.625,
+          "height": 44,
+          "right": 600.671875,
+          "bottom": 581.234375,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-threat",
+          "text": "Bonnie at left door",
+          "x": 610.671875,
+          "y": 537.234375,
+          "width": 143.421875,
+          "height": 44,
+          "right": 754.09375,
+          "bottom": 581.234375,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-outage",
+          "text": "Drain power",
+          "x": 764.09375,
+          "y": 537.234375,
+          "width": 90.625,
+          "height": 44,
+          "right": 854.71875,
+          "bottom": 581.234375,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-dawn",
+          "text": "5 seconds to dawn",
+          "x": 864.71875,
+          "y": 537.234375,
+          "width": 130.21875,
+          "height": 44,
+          "right": 994.9375,
+          "bottom": 581.234375,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": false
+        }
+      ],
+      "images": [
+        {
+          "selector": "#title-art",
+          "x": 0,
+          "y": 0,
+          "width": 1366,
+          "height": 768,
+          "right": 1366,
+          "bottom": 768,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": []
+    },
+    {
+      "name": "desktop",
+      "screenshot": "evidence/b8e49213ac07/desktop.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "game": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "right": 1920,
+        "bottom": 1080
+      },
+      "coverage": 100,
+      "document": {
+        "width": 1920,
+        "height": 1080,
+        "horizontalOverflow": false,
+        "verticalOverflow": false
+      },
+      "controls": [
+        {
+          "selector": "#start",
+          "text": "Start Night 1\n\u2197",
+          "x": 134.390625,
+          "y": 549.75,
+          "width": 191.53125,
+          "height": 64,
+          "right": 325.921875,
+          "bottom": 613.75,
+          "insideGame": true,
+          "fontSize": 16,
+          "offscreen": false
+        },
+        {
+          "selector": "#help-open",
+          "text": "How to play",
+          "x": 1788.171875,
+          "y": 12,
+          "width": 115.828125,
+          "height": 44,
+          "right": 1904,
+          "bottom": 56,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        },
+        {
+          "selector": "#help-close",
+          "text": "Back to game",
+          "x": 1172.828125,
+          "y": 290.65625,
+          "width": 146.171875,
+          "height": 44,
+          "right": 1319,
+          "bottom": 334.65625,
+          "insideGame": true,
+          "fontSize": 19,
+          "offscreen": false
+        },
+        {
+          "selector": "summary.",
+          "text": "SHIFT BRIEFING\nControls & survival notes",
+          "x": 602,
+          "y": 401.5625,
+          "width": 716,
+          "height": 46,
+          "right": 1318,
+          "bottom": 447.5625,
+          "insideGame": true,
+          "fontSize": 10,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-speed",
+          "text": "Speed: 1\u00d7",
+          "x": 699.625,
+          "y": 693.234375,
+          "width": 77.421875,
+          "height": 44,
+          "right": 777.046875,
+          "bottom": 737.234375,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-advance",
+          "text": "+10 seconds",
+          "x": 787.046875,
+          "y": 693.234375,
+          "width": 90.625,
+          "height": 44,
+          "right": 877.671875,
+          "bottom": 737.234375,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-threat",
+          "text": "Bonnie at left door",
+          "x": 887.671875,
+          "y": 693.234375,
+          "width": 143.421875,
+          "height": 44,
+          "right": 1031.09375,
+          "bottom": 737.234375,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-outage",
+          "text": "Drain power",
+          "x": 1041.09375,
+          "y": 693.234375,
+          "width": 90.625,
+          "height": 44,
+          "right": 1131.71875,
+          "bottom": 737.234375,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-dawn",
+          "text": "5 seconds to dawn",
+          "x": 1141.71875,
+          "y": 693.234375,
+          "width": 130.21875,
+          "height": 44,
+          "right": 1271.9375,
+          "bottom": 737.234375,
+          "insideGame": true,
+          "fontSize": 11,
+          "offscreen": false
+        }
+      ],
+      "images": [
+        {
+          "selector": "#title-art",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080,
+          "right": 1920,
+          "bottom": 1080,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": []
+    }
+  ]
+}

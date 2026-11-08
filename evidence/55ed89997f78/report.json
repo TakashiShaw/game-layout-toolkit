@@ -1,0 +1,880 @@
+{
+  "url": "http://127.0.0.1:8138/?dev=1&manual=1",
+  "gameSelector": "#game",
+  "clicks": [
+    "#start"
+  ],
+  "browser": "Playwright Chromium; emulated viewports, not physical-device testing",
+  "results": [
+    {
+      "name": "phone-portrait",
+      "screenshot": "evidence/55ed89997f78/phone-portrait.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "game": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "right": 390,
+        "bottom": 844
+      },
+      "coverage": 100,
+      "document": {
+        "width": 390,
+        "height": 844,
+        "horizontalOverflow": false,
+        "verticalOverflow": false
+      },
+      "controls": [
+        {
+          "selector": "#left-door",
+          "text": "Close door",
+          "x": 12,
+          "y": 634,
+          "width": 85.5,
+          "height": 44,
+          "right": 97.5,
+          "bottom": 678,
+          "insideGame": true,
+          "fontSize": 12,
+          "offscreen": false
+        },
+        {
+          "selector": "#left-light",
+          "text": "Light",
+          "x": 103.5,
+          "y": 634,
+          "width": 85.5,
+          "height": 44,
+          "right": 189,
+          "bottom": 678,
+          "insideGame": true,
+          "fontSize": 12,
+          "offscreen": false
+        },
+        {
+          "selector": "#monitor-toggle",
+          "text": "Open monitor",
+          "x": 12,
+          "y": 690,
+          "width": 366,
+          "height": 44,
+          "right": 378,
+          "bottom": 734,
+          "insideGame": true,
+          "fontSize": 12,
+          "offscreen": false
+        },
+        {
+          "selector": "#right-light",
+          "text": "Light",
+          "x": 201,
+          "y": 634,
+          "width": 85.5,
+          "height": 44,
+          "right": 286.5,
+          "bottom": 678,
+          "insideGame": true,
+          "fontSize": 12,
+          "offscreen": false
+        },
+        {
+          "selector": "#right-door",
+          "text": "Close door",
+          "x": 292.5,
+          "y": 634,
+          "width": 85.5,
+          "height": 44,
+          "right": 378,
+          "bottom": 678,
+          "insideGame": true,
+          "fontSize": 12,
+          "offscreen": false
+        },
+        {
+          "selector": "#help-open",
+          "text": "How to play",
+          "x": 258.171875,
+          "y": 12,
+          "width": 115.828125,
+          "height": 44,
+          "right": 374,
+          "bottom": 56,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        },
+        {
+          "selector": "#pause-button",
+          "text": "Pause [P]",
+          "x": 175.8125,
+          "y": 792,
+          "width": 96.21875,
+          "height": 44,
+          "right": 272.03125,
+          "bottom": 836,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        },
+        {
+          "selector": "#menu-button",
+          "text": "Menu ESC",
+          "x": 280.03125,
+          "y": 792,
+          "width": 97.96875,
+          "height": 44,
+          "right": 378,
+          "bottom": 836,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        }
+      ],
+      "images": [
+        {
+          "selector": "#office-art",
+          "x": 0,
+          "y": 212.8125,
+          "width": 390,
+          "height": 219.375,
+          "right": 390,
+          "bottom": 432.1875,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": []
+    },
+    {
+      "name": "phone-landscape",
+      "screenshot": "evidence/55ed89997f78/phone-landscape.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "game": {
+        "x": 0,
+        "y": 0,
+        "width": 844,
+        "height": 390,
+        "right": 844,
+        "bottom": 390
+      },
+      "coverage": 100,
+      "document": {
+        "width": 844,
+        "height": 390,
+        "horizontalOverflow": false,
+        "verticalOverflow": false
+      },
+      "controls": [
+        {
+          "selector": "#left-door",
+          "text": "Close door",
+          "x": 12,
+          "y": 286,
+          "width": 127.6875,
+          "height": 44,
+          "right": 139.6875,
+          "bottom": 330,
+          "insideGame": true,
+          "fontSize": 12,
+          "offscreen": false
+        },
+        {
+          "selector": "#left-light",
+          "text": "Light",
+          "x": 146.6875,
+          "y": 286,
+          "width": 127.703125,
+          "height": 44,
+          "right": 274.390625,
+          "bottom": 330,
+          "insideGame": true,
+          "fontSize": 12,
+          "offscreen": false
+        },
+        {
+          "selector": "#monitor-toggle",
+          "text": "Open monitor",
+          "x": 357.65625,
+          "y": 286,
+          "width": 128.703125,
+          "height": 44,
+          "right": 486.359375,
+          "bottom": 330,
+          "insideGame": true,
+          "fontSize": 12,
+          "offscreen": false
+        },
+        {
+          "selector": "#right-light",
+          "text": "Light",
+          "x": 569.609375,
+          "y": 286,
+          "width": 127.6875,
+          "height": 44,
+          "right": 697.296875,
+          "bottom": 330,
+          "insideGame": true,
+          "fontSize": 12,
+          "offscreen": false
+        },
+        {
+          "selector": "#right-door",
+          "text": "Close door",
+          "x": 704.296875,
+          "y": 286,
+          "width": 127.703125,
+          "height": 44,
+          "right": 832,
+          "bottom": 330,
+          "insideGame": true,
+          "fontSize": 12,
+          "offscreen": false
+        },
+        {
+          "selector": "#help-open",
+          "text": "How to play",
+          "x": 712.171875,
+          "y": 12,
+          "width": 115.828125,
+          "height": 44,
+          "right": 828,
+          "bottom": 56,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        },
+        {
+          "selector": "#pause-button",
+          "text": "Pause [P]",
+          "x": 625.8125,
+          "y": 342,
+          "width": 96.21875,
+          "height": 44,
+          "right": 722.03125,
+          "bottom": 386,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        },
+        {
+          "selector": "#menu-button",
+          "text": "Menu ESC",
+          "x": 730.03125,
+          "y": 342,
+          "width": 97.96875,
+          "height": 44,
+          "right": 828,
+          "bottom": 386,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        }
+      ],
+      "images": [
+        {
+          "selector": "#office-art",
+          "x": 121.5625,
+          "y": 0.0078125,
+          "width": 600.875,
+          "height": 337.984375,
+          "right": 722.4375,
+          "bottom": 337.9921875,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": []
+    },
+    {
+      "name": "tablet-portrait",
+      "screenshot": "evidence/55ed89997f78/tablet-portrait.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "game": {
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 1024,
+        "right": 768,
+        "bottom": 1024
+      },
+      "coverage": 100,
+      "document": {
+        "width": 768,
+        "height": 1024,
+        "horizontalOverflow": false,
+        "verticalOverflow": false
+      },
+      "controls": [
+        {
+          "selector": "#left-door",
+          "text": "Close door",
+          "x": 12,
+          "y": 904,
+          "width": 115.53125,
+          "height": 44,
+          "right": 127.53125,
+          "bottom": 948,
+          "insideGame": true,
+          "fontSize": 12,
+          "offscreen": false
+        },
+        {
+          "selector": "#left-light",
+          "text": "Light",
+          "x": 134.53125,
+          "y": 904,
+          "width": 115.546875,
+          "height": 44,
+          "right": 250.078125,
+          "bottom": 948,
+          "insideGame": true,
+          "fontSize": 12,
+          "offscreen": false
+        },
+        {
+          "selector": "#monitor-toggle",
+          "text": "Open monitor",
+          "x": 319.65625,
+          "y": 904,
+          "width": 128.703125,
+          "height": 44,
+          "right": 448.359375,
+          "bottom": 948,
+          "insideGame": true,
+          "fontSize": 12,
+          "offscreen": false
+        },
+        {
+          "selector": "#right-light",
+          "text": "Light",
+          "x": 517.921875,
+          "y": 904,
+          "width": 115.53125,
+          "height": 44,
+          "right": 633.453125,
+          "bottom": 948,
+          "insideGame": true,
+          "fontSize": 12,
+          "offscreen": false
+        },
+        {
+          "selector": "#right-door",
+          "text": "Close door",
+          "x": 640.453125,
+          "y": 904,
+          "width": 115.546875,
+          "height": 44,
+          "right": 756,
+          "bottom": 948,
+          "insideGame": true,
+          "fontSize": 12,
+          "offscreen": false
+        },
+        {
+          "selector": "#help-open",
+          "text": "How to play",
+          "x": 636.171875,
+          "y": 12,
+          "width": 115.828125,
+          "height": 44,
+          "right": 752,
+          "bottom": 56,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        },
+        {
+          "selector": "#pause-button",
+          "text": "Pause [P]",
+          "x": 549.8125,
+          "y": 970,
+          "width": 96.21875,
+          "height": 44,
+          "right": 646.03125,
+          "bottom": 1014,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        },
+        {
+          "selector": "#menu-button",
+          "text": "Menu ESC",
+          "x": 654.03125,
+          "y": 970,
+          "width": 97.96875,
+          "height": 44,
+          "right": 752,
+          "bottom": 1014,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        }
+      ],
+      "images": [
+        {
+          "selector": "#office-art",
+          "x": 0,
+          "y": 264,
+          "width": 768,
+          "height": 432,
+          "right": 768,
+          "bottom": 696,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": []
+    },
+    {
+      "name": "tablet-landscape",
+      "screenshot": "evidence/55ed89997f78/tablet-landscape.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "game": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 768,
+        "right": 1024,
+        "bottom": 768
+      },
+      "coverage": 100,
+      "document": {
+        "width": 1024,
+        "height": 768,
+        "horizontalOverflow": false,
+        "verticalOverflow": false
+      },
+      "controls": [
+        {
+          "selector": "#left-door",
+          "text": "A\nClose door",
+          "x": 18,
+          "y": 642,
+          "width": 144.6875,
+          "height": 44,
+          "right": 162.6875,
+          "bottom": 686,
+          "insideGame": true,
+          "fontSize": 14,
+          "offscreen": false
+        },
+        {
+          "selector": "#left-light",
+          "text": "Q\nLight",
+          "x": 169.6875,
+          "y": 642,
+          "width": 144.703125,
+          "height": 44,
+          "right": 314.390625,
+          "bottom": 686,
+          "insideGame": true,
+          "fontSize": 14,
+          "offscreen": false
+        },
+        {
+          "selector": "#monitor-toggle",
+          "text": "Open monitor\nSPACE",
+          "x": 410.5625,
+          "y": 640.65625,
+          "width": 202.875,
+          "height": 45.34375,
+          "right": 613.4375,
+          "bottom": 686,
+          "insideGame": true,
+          "fontSize": 14,
+          "offscreen": false
+        },
+        {
+          "selector": "#right-light",
+          "text": "E\nLight",
+          "x": 709.609375,
+          "y": 642,
+          "width": 144.6875,
+          "height": 44,
+          "right": 854.296875,
+          "bottom": 686,
+          "insideGame": true,
+          "fontSize": 14,
+          "offscreen": false
+        },
+        {
+          "selector": "#right-door",
+          "text": "D\nClose door",
+          "x": 861.296875,
+          "y": 642,
+          "width": 144.703125,
+          "height": 44,
+          "right": 1006,
+          "bottom": 686,
+          "insideGame": true,
+          "fontSize": 14,
+          "offscreen": false
+        },
+        {
+          "selector": "#help-open",
+          "text": "How to play",
+          "x": 892.171875,
+          "y": 12,
+          "width": 115.828125,
+          "height": 44,
+          "right": 1008,
+          "bottom": 56,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        },
+        {
+          "selector": "#pause-button",
+          "text": "Pause [P]",
+          "x": 805.8125,
+          "y": 714,
+          "width": 96.21875,
+          "height": 44,
+          "right": 902.03125,
+          "bottom": 758,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        },
+        {
+          "selector": "#menu-button",
+          "text": "Menu ESC",
+          "x": 910.03125,
+          "y": 714,
+          "width": 97.96875,
+          "height": 44,
+          "right": 1008,
+          "bottom": 758,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        }
+      ],
+      "images": [
+        {
+          "selector": "#office-art",
+          "x": 0,
+          "y": 64,
+          "width": 1024,
+          "height": 576,
+          "right": 1024,
+          "bottom": 640,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": []
+    },
+    {
+      "name": "laptop",
+      "screenshot": "evidence/55ed89997f78/laptop.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 1366,
+        "height": 768
+      },
+      "game": {
+        "x": 0,
+        "y": 0,
+        "width": 1366,
+        "height": 768,
+        "right": 1366,
+        "bottom": 768
+      },
+      "coverage": 100,
+      "document": {
+        "width": 1366,
+        "height": 768,
+        "horizontalOverflow": false,
+        "verticalOverflow": false
+      },
+      "controls": [
+        {
+          "selector": "#left-door",
+          "text": "A\nClose door",
+          "x": 18,
+          "y": 642,
+          "width": 195.75,
+          "height": 44,
+          "right": 213.75,
+          "bottom": 686,
+          "insideGame": true,
+          "fontSize": 14,
+          "offscreen": false
+        },
+        {
+          "selector": "#left-light",
+          "text": "Q\nLight",
+          "x": 221.25,
+          "y": 642,
+          "width": 195.75,
+          "height": 44,
+          "right": 417,
+          "bottom": 686,
+          "insideGame": true,
+          "fontSize": 14,
+          "offscreen": false
+        },
+        {
+          "selector": "#monitor-toggle",
+          "text": "Open monitor\nSPACE",
+          "x": 581.5625,
+          "y": 640.65625,
+          "width": 202.875,
+          "height": 45.34375,
+          "right": 784.4375,
+          "bottom": 686,
+          "insideGame": true,
+          "fontSize": 14,
+          "offscreen": false
+        },
+        {
+          "selector": "#right-light",
+          "text": "E\nLight",
+          "x": 949,
+          "y": 642,
+          "width": 195.75,
+          "height": 44,
+          "right": 1144.75,
+          "bottom": 686,
+          "insideGame": true,
+          "fontSize": 14,
+          "offscreen": false
+        },
+        {
+          "selector": "#right-door",
+          "text": "D\nClose door",
+          "x": 1152.25,
+          "y": 642,
+          "width": 195.75,
+          "height": 44,
+          "right": 1348,
+          "bottom": 686,
+          "insideGame": true,
+          "fontSize": 14,
+          "offscreen": false
+        },
+        {
+          "selector": "#help-open",
+          "text": "How to play",
+          "x": 1234.171875,
+          "y": 12,
+          "width": 115.828125,
+          "height": 44,
+          "right": 1350,
+          "bottom": 56,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        },
+        {
+          "selector": "#pause-button",
+          "text": "Pause [P]",
+          "x": 1147.8125,
+          "y": 714,
+          "width": 96.21875,
+          "height": 44,
+          "right": 1244.03125,
+          "bottom": 758,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        },
+        {
+          "selector": "#menu-button",
+          "text": "Menu ESC",
+          "x": 1252.03125,
+          "y": 714,
+          "width": 97.96875,
+          "height": 44,
+          "right": 1350,
+          "bottom": 758,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        }
+      ],
+      "images": [
+        {
+          "selector": "#office-art",
+          "x": 57.2265625,
+          "y": 0.0078125,
+          "width": 1251.546875,
+          "height": 703.984375,
+          "right": 1308.7734375,
+          "bottom": 703.9921875,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": []
+    },
+    {
+      "name": "desktop",
+      "screenshot": "evidence/55ed89997f78/desktop.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "game": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "right": 1920,
+        "bottom": 1080
+      },
+      "coverage": 100,
+      "document": {
+        "width": 1920,
+        "height": 1080,
+        "horizontalOverflow": false,
+        "verticalOverflow": false
+      },
+      "controls": [
+        {
+          "selector": "#left-door",
+          "text": "A\nClose door",
+          "x": 18,
+          "y": 954,
+          "width": 277.84375,
+          "height": 44,
+          "right": 295.84375,
+          "bottom": 998,
+          "insideGame": true,
+          "fontSize": 14,
+          "offscreen": false
+        },
+        {
+          "selector": "#left-light",
+          "text": "Q\nLight",
+          "x": 305.34375,
+          "y": 954,
+          "width": 277.84375,
+          "height": 44,
+          "right": 583.1875,
+          "bottom": 998,
+          "insideGame": true,
+          "fontSize": 14,
+          "offscreen": false
+        },
+        {
+          "selector": "#monitor-toggle",
+          "text": "Open monitor\nSPACE",
+          "x": 858.5625,
+          "y": 952.65625,
+          "width": 202.875,
+          "height": 45.34375,
+          "right": 1061.4375,
+          "bottom": 998,
+          "insideGame": true,
+          "fontSize": 14,
+          "offscreen": false
+        },
+        {
+          "selector": "#right-light",
+          "text": "E\nLight",
+          "x": 1336.8125,
+          "y": 954,
+          "width": 277.84375,
+          "height": 44,
+          "right": 1614.65625,
+          "bottom": 998,
+          "insideGame": true,
+          "fontSize": 14,
+          "offscreen": false
+        },
+        {
+          "selector": "#right-door",
+          "text": "D\nClose door",
+          "x": 1624.15625,
+          "y": 954,
+          "width": 277.84375,
+          "height": 44,
+          "right": 1902,
+          "bottom": 998,
+          "insideGame": true,
+          "fontSize": 14,
+          "offscreen": false
+        },
+        {
+          "selector": "#help-open",
+          "text": "How to play",
+          "x": 1788.171875,
+          "y": 12,
+          "width": 115.828125,
+          "height": 44,
+          "right": 1904,
+          "bottom": 56,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        },
+        {
+          "selector": "#pause-button",
+          "text": "Pause [P]",
+          "x": 1701.8125,
+          "y": 1026,
+          "width": 96.21875,
+          "height": 44,
+          "right": 1798.03125,
+          "bottom": 1070,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        },
+        {
+          "selector": "#menu-button",
+          "text": "Menu ESC",
+          "x": 1806.03125,
+          "y": 1026,
+          "width": 97.96875,
+          "height": 44,
+          "right": 1904,
+          "bottom": 1070,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        }
+      ],
+      "images": [
+        {
+          "selector": "#office-art",
+          "x": 56.890625,
+          "y": 0.0078125,
+          "width": 1806.21875,
+          "height": 1015.984375,
+          "right": 1863.109375,
+          "bottom": 1015.9921875,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": []
+    }
+  ]
+}

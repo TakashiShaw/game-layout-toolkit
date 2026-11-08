@@ -1,0 +1,922 @@
+[
+  {
+    "size": [
+      320,
+      568
+    ],
+    "state": "menu",
+    "controls": [
+      {
+        "id": "start",
+        "w": 275.1875,
+        "h": 64,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "help-open",
+        "w": 115.828125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      }
+    ]
+  },
+  {
+    "size": [
+      320,
+      568
+    ],
+    "state": "office",
+    "controls": [
+      {
+        "id": "left-door",
+        "w": 68,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "left-light",
+        "w": 68,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "monitor-toggle",
+        "w": 296,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "right-light",
+        "w": 68,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "right-door",
+        "w": 68,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "help-open",
+        "w": 115.828125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "pause-button",
+        "w": 96.21875,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "menu-button",
+        "w": 97.96875,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      }
+    ]
+  },
+  {
+    "size": [
+      320,
+      568
+    ],
+    "state": "monitor",
+    "controls": [
+      {
+        "id": "",
+        "w": 47.328125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 47.328125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 47.328125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 47.34375,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 47.328125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 47.328125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 47.328125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 47.328125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 47.328125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 47.34375,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 47.328125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "left-door",
+        "w": 68,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "left-light",
+        "w": 68,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "monitor-toggle",
+        "w": 296,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "right-light",
+        "w": 68,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "right-door",
+        "w": 68,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "help-open",
+        "w": 115.828125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "pause-button",
+        "w": 96.21875,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "menu-button",
+        "w": 97.96875,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      }
+    ]
+  },
+  {
+    "size": [
+      360,
+      640
+    ],
+    "state": "menu",
+    "controls": [
+      {
+        "id": "start",
+        "w": 309.59375,
+        "h": 64,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "help-open",
+        "w": 115.828125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      }
+    ]
+  },
+  {
+    "size": [
+      360,
+      640
+    ],
+    "state": "office",
+    "controls": [
+      {
+        "id": "left-door",
+        "w": 78,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "left-light",
+        "w": 78,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "monitor-toggle",
+        "w": 336,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "right-light",
+        "w": 78,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "right-door",
+        "w": 78,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "help-open",
+        "w": 115.828125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "pause-button",
+        "w": 96.21875,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "menu-button",
+        "w": 97.96875,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      }
+    ]
+  },
+  {
+    "size": [
+      360,
+      640
+    ],
+    "state": "monitor",
+    "controls": [
+      {
+        "id": "",
+        "w": 54,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 54,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 54,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 54,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 54,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 54,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 54,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 54,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 54,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 54,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 54,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "left-door",
+        "w": 78,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "left-light",
+        "w": 78,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "monitor-toggle",
+        "w": 336,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "right-light",
+        "w": 78,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "right-door",
+        "w": 78,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "help-open",
+        "w": 115.828125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "pause-button",
+        "w": 96.21875,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "menu-button",
+        "w": 97.96875,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      }
+    ]
+  },
+  {
+    "size": [
+      568,
+      320
+    ],
+    "state": "menu",
+    "controls": [
+      {
+        "id": "start",
+        "w": 220,
+        "h": 48,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "help-open",
+        "w": 115.828125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      }
+    ]
+  },
+  {
+    "size": [
+      568,
+      320
+    ],
+    "state": "office",
+    "controls": [
+      {
+        "id": "left-door",
+        "w": 83.53125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "left-light",
+        "w": 83.546875,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "monitor-toggle",
+        "w": 98.703125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "right-light",
+        "w": 83.53125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "right-door",
+        "w": 83.546875,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "help-open",
+        "w": 115.828125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "pause-button",
+        "w": 96.21875,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "menu-button",
+        "w": 97.96875,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      }
+    ]
+  },
+  {
+    "size": [
+      568,
+      320
+    ],
+    "state": "monitor",
+    "controls": [
+      {
+        "id": "",
+        "w": 44,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 44,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 44,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 44,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 44,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 44,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 44,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 44,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 44,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 44,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 44,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "left-door",
+        "w": 83.53125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "left-light",
+        "w": 83.546875,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "monitor-toggle",
+        "w": 102.03125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "right-light",
+        "w": 83.53125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "right-door",
+        "w": 83.546875,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "help-open",
+        "w": 115.828125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "pause-button",
+        "w": 96.21875,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "menu-button",
+        "w": 97.96875,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      }
+    ]
+  },
+  {
+    "size": [
+      2560,
+      1080
+    ],
+    "state": "menu",
+    "controls": [
+      {
+        "id": "start",
+        "w": 191.53125,
+        "h": 64,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "help-open",
+        "w": 115.828125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      }
+    ]
+  },
+  {
+    "size": [
+      2560,
+      1080
+    ],
+    "state": "office",
+    "controls": [
+      {
+        "id": "left-door",
+        "w": 373.84375,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "left-light",
+        "w": 373.84375,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "monitor-toggle",
+        "w": 202.875,
+        "h": 45.34375,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "right-light",
+        "w": 373.84375,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "right-door",
+        "w": 373.84375,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "help-open",
+        "w": 115.828125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "pause-button",
+        "w": 96.21875,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "menu-button",
+        "w": 97.96875,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      }
+    ]
+  },
+  {
+    "size": [
+      2560,
+      1080
+    ],
+    "state": "monitor",
+    "controls": [
+      {
+        "id": "",
+        "w": 77.328125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 77.328125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 77.328125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 77.328125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 77.328125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 77.328125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 77.34375,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 77.34375,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 77.328125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 77.34375,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "",
+        "w": 77.34375,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "left-door",
+        "w": 373.84375,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "left-light",
+        "w": 373.84375,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "monitor-toggle",
+        "w": 206.75,
+        "h": 45.34375,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "right-light",
+        "w": 373.84375,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "right-door",
+        "w": 373.84375,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "help-open",
+        "w": 115.828125,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "pause-button",
+        "w": 96.21875,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      },
+      {
+        "id": "menu-button",
+        "w": 97.96875,
+        "h": 44,
+        "inside": true,
+        "reachable": true
+      }
+    ]
+  }
+]

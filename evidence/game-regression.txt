@@ -1,0 +1,43 @@
+Night 1 / browser regression
+
+38/38 passed · 0 failed
+
+Run again
+PASS / Elapsed-time integration agrees across large and small updates
+PASS / Independent devices add the configured power costs
+PASS / Bonnie naturally follows his route and retreats from the left door
+PASS / The wrong door permits Bonnie to attack, even behind the monitor
+PASS / Chica and Freddy each retreat at the right door; the left door cannot defend
+PASS / Kitchen route occupancy is distinct and reaches both right-side routes
+PASS / Outage opens doors, disables inputs, and delays the attack
+PASS / 6 AM wins a simultaneous outage attack
+PASS / 6 AM wins a simultaneous enemy attack
+PASS / Outcomes resolve once; further updates and actions cannot change them
+PASS / New state resets power, time, devices, enemies, and outcome
+PASS / Paused and hidden states freeze time, power, and enemy clocks
+PASS / Foxy progresses, warns in West Hall, and is blocked only on the left
+PASS / Watching Pirate Cove holds Foxy back; watching another feed does not
+PASS / All four can coexist through a complete survivable Night 1
+PASS / One retreat does not claim the doorway is safe while another enemy remains
+PASS / Menu, office, all 11 camera buttons, and all keyboard camera shortcuts
+PASS / Every supplied camera background decodes successfully
+PASS / Door/light click controls, keyboard holds, and blur cleanup
+PASS / Office threat indicator and correct left-door defense
+PASS / Wrong-door loss, outcome stability, retry, and no stale attack after retry
+PASS / Right-door defense and wrong-door losses for Chica and Freddy
+PASS / Foxy doorway attack can be blocked on the left and not on the right
+PASS / Foxy sprint uses the full West Hall artwork with a single nameplate
+PASS / Opaque office variants are clipped to independent sides of the shared canvas
+PASS / Power outage disables devices before a delayed loss
+PASS / 6 AM win during outage, replay reset, and return to menu
+PASS / Manual pause freezes the simulation; resume restores inputs
+PASS / Visibility-change handler freezes a hidden tab and preserves a manual pause
+PASS / No-art fallback mode supports all feeds, threat defense, and a complete result flow
+PASS / Live animation loop pauses without catch-up and retry cancels the old run
+PASS / All 33 manifest images decode at their recorded dimensions; sprites preserve alpha
+PASS / All 16 door/light combinations select one aligned opaque variant per side
+PASS / Both lit threats coexist, closed doors take priority, and outage clears every overlay
+PASS / Stage figures keep 2:3 proportions, floor anchors, and fixed positions after departures at both screen sizes
+PASS / All four Cove states use complete artwork without a duplicate Foxy sprite
+PASS / Every enemy loss uses its own full-frame jumpscare still
+PASS / Viewport shell fills narrow and wide windows while scene keeps 16:9 proportions

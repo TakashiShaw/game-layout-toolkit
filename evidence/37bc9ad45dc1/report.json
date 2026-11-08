@@ -1,0 +1,974 @@
+{
+  "url": "http://127.0.0.1:8138/?dev=1&manual=1",
+  "gameSelector": "#game",
+  "clicks": [],
+  "browser": "Playwright Chromium; emulated viewports, not physical-device testing",
+  "results": [
+    {
+      "name": "phone-portrait",
+      "screenshot": "evidence/37bc9ad45dc1/phone-portrait.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "game": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 219.375,
+        "right": 390,
+        "bottom": 219.375
+      },
+      "coverage": 26,
+      "document": {
+        "width": 390,
+        "height": 844,
+        "horizontalOverflow": false,
+        "verticalOverflow": false
+      },
+      "controls": [
+        {
+          "selector": "#start",
+          "text": "Start Night 1\n\u2197",
+          "x": 31.1875,
+          "y": 119.390625,
+          "width": 82.359375,
+          "height": 22.28125,
+          "right": 113.546875,
+          "bottom": 141.671875,
+          "insideGame": true,
+          "fontSize": 5.148,
+          "offscreen": false
+        },
+        {
+          "selector": "summary.",
+          "text": "SHIFT BRIEFING\nControls & survival notes",
+          "x": 13,
+          "y": 347.375,
+          "width": 364,
+          "height": 37,
+          "right": 377,
+          "bottom": 384.375,
+          "insideGame": false,
+          "fontSize": 8,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-speed",
+          "text": "Speed: 1\u00d7",
+          "x": 110.625,
+          "y": 421.375,
+          "width": 77.421875,
+          "height": 31,
+          "right": 188.046875,
+          "bottom": 452.375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-advance",
+          "text": "+10 seconds",
+          "x": 198.046875,
+          "y": 421.375,
+          "width": 90.625,
+          "height": 31,
+          "right": 288.671875,
+          "bottom": 452.375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-threat",
+          "text": "Bonnie at left door",
+          "x": 28,
+          "y": 462.375,
+          "width": 143.421875,
+          "height": 31,
+          "right": 171.421875,
+          "bottom": 493.375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-outage",
+          "text": "Drain power",
+          "x": 181.421875,
+          "y": 462.375,
+          "width": 90.625,
+          "height": 31,
+          "right": 272.046875,
+          "bottom": 493.375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-dawn",
+          "text": "5 seconds to dawn",
+          "x": 28,
+          "y": 503.375,
+          "width": 130.21875,
+          "height": 31,
+          "right": 158.21875,
+          "bottom": 534.375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": false
+        }
+      ],
+      "images": [
+        {
+          "selector": "#title-art",
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 219.375,
+          "right": 390,
+          "bottom": 219.375,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": [
+        {
+          "selector": "#activity",
+          "text": "Welcome to the night shift. Check your instructions before clocking in."
+        },
+        {
+          "selector": "header.terminal-header",
+          "text": "F\nFAZBEAR ENTERTAINMENT\nSECURITY OPERATIONS / LOCAL TERMINAL\nNIGHT SHIFT\n// 01"
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.briefing-note",
+          "text": ""
+        },
+        {
+          "selector": "footer.terminal-footer",
+          "text": "LOCAL SURVIVAL PROTOTYPE\nNO SIGNAL LEAVES THIS TERMINAL"
+        }
+      ]
+    },
+    {
+      "name": "phone-landscape",
+      "screenshot": "evidence/37bc9ad45dc1/phone-landscape.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "game": {
+        "x": 75.328125,
+        "y": 0,
+        "width": 693.328125,
+        "height": 389.984375,
+        "right": 768.65625,
+        "bottom": 389.984375
+      },
+      "coverage": 82.1,
+      "document": {
+        "width": 844,
+        "height": 697,
+        "horizontalOverflow": false,
+        "verticalOverflow": true
+      },
+      "controls": [
+        {
+          "selector": "#start",
+          "text": "Start Night 1\n\u2197",
+          "x": 130.78125,
+          "y": 224.9375,
+          "width": 134.21875,
+          "height": 34.75,
+          "right": 265,
+          "bottom": 259.6875,
+          "insideGame": true,
+          "fontSize": 8.38935,
+          "offscreen": false
+        },
+        {
+          "selector": "summary.",
+          "text": "SHIFT BRIEFING\nControls & survival notes",
+          "x": 13,
+          "y": 492.984375,
+          "width": 818,
+          "height": 46,
+          "right": 831,
+          "bottom": 538.984375,
+          "insideGame": false,
+          "fontSize": 10,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-speed",
+          "text": "Speed: 1\u00d7",
+          "x": 110.625,
+          "y": 575.984375,
+          "width": 77.421875,
+          "height": 31,
+          "right": 188.046875,
+          "bottom": 606.984375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-advance",
+          "text": "+10 seconds",
+          "x": 198.046875,
+          "y": 575.984375,
+          "width": 90.625,
+          "height": 31,
+          "right": 288.671875,
+          "bottom": 606.984375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-threat",
+          "text": "Bonnie at left door",
+          "x": 298.671875,
+          "y": 575.984375,
+          "width": 143.421875,
+          "height": 31,
+          "right": 442.09375,
+          "bottom": 606.984375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-outage",
+          "text": "Drain power",
+          "x": 452.09375,
+          "y": 575.984375,
+          "width": 90.625,
+          "height": 31,
+          "right": 542.71875,
+          "bottom": 606.984375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-dawn",
+          "text": "5 seconds to dawn",
+          "x": 552.71875,
+          "y": 575.984375,
+          "width": 130.21875,
+          "height": 31,
+          "right": 682.9375,
+          "bottom": 606.984375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        }
+      ],
+      "images": [
+        {
+          "selector": "#title-art",
+          "x": 75.328125,
+          "y": 0,
+          "width": 693.328125,
+          "height": 389.984375,
+          "right": 768.65625,
+          "bottom": 389.984375,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": [
+        {
+          "selector": "#activity",
+          "text": "Welcome to the night shift. Check your instructions before clocking in."
+        },
+        {
+          "selector": "header.terminal-header",
+          "text": "F\nFAZBEAR ENTERTAINMENT\nSECURITY OPERATIONS / LOCAL TERMINAL\nNIGHT SHIFT\n// 01"
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.briefing-note",
+          "text": ""
+        },
+        {
+          "selector": "footer.terminal-footer",
+          "text": "LOCAL SURVIVAL PROTOTYPE\nNO SIGNAL LEAVES THIS TERMINAL"
+        }
+      ]
+    },
+    {
+      "name": "tablet-portrait",
+      "screenshot": "evidence/37bc9ad45dc1/tablet-portrait.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "game": {
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 432,
+        "right": 768,
+        "bottom": 432
+      },
+      "coverage": 42.2,
+      "document": {
+        "width": 768,
+        "height": 1024,
+        "horizontalOverflow": false,
+        "verticalOverflow": false
+      },
+      "controls": [
+        {
+          "selector": "#start",
+          "text": "Start Night 1\n\u2197",
+          "x": 61.4375,
+          "y": 248.34375,
+          "width": 148.671875,
+          "height": 38.5625,
+          "right": 210.109375,
+          "bottom": 286.90625,
+          "insideGame": true,
+          "fontSize": 9.2928,
+          "offscreen": false
+        },
+        {
+          "selector": "summary.",
+          "text": "SHIFT BRIEFING\nControls & survival notes",
+          "x": 13,
+          "y": 535,
+          "width": 742,
+          "height": 46,
+          "right": 755,
+          "bottom": 581,
+          "insideGame": false,
+          "fontSize": 10,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-speed",
+          "text": "Speed: 1\u00d7",
+          "x": 110.625,
+          "y": 618,
+          "width": 77.421875,
+          "height": 31,
+          "right": 188.046875,
+          "bottom": 649,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-advance",
+          "text": "+10 seconds",
+          "x": 198.046875,
+          "y": 618,
+          "width": 90.625,
+          "height": 31,
+          "right": 288.671875,
+          "bottom": 649,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-threat",
+          "text": "Bonnie at left door",
+          "x": 298.671875,
+          "y": 618,
+          "width": 143.421875,
+          "height": 31,
+          "right": 442.09375,
+          "bottom": 649,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-outage",
+          "text": "Drain power",
+          "x": 452.09375,
+          "y": 618,
+          "width": 90.625,
+          "height": 31,
+          "right": 542.71875,
+          "bottom": 649,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-dawn",
+          "text": "5 seconds to dawn",
+          "x": 552.71875,
+          "y": 618,
+          "width": 130.21875,
+          "height": 31,
+          "right": 682.9375,
+          "bottom": 649,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": false
+        }
+      ],
+      "images": [
+        {
+          "selector": "#title-art",
+          "x": 0,
+          "y": 0,
+          "width": 768,
+          "height": 432,
+          "right": 768,
+          "bottom": 432,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": [
+        {
+          "selector": "#activity",
+          "text": "Welcome to the night shift. Check your instructions before clocking in."
+        },
+        {
+          "selector": "header.terminal-header",
+          "text": "F\nFAZBEAR ENTERTAINMENT\nSECURITY OPERATIONS / LOCAL TERMINAL\nNIGHT SHIFT\n// 01"
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.briefing-note",
+          "text": ""
+        },
+        {
+          "selector": "footer.terminal-footer",
+          "text": "LOCAL SURVIVAL PROTOTYPE\nNO SIGNAL LEAVES THIS TERMINAL"
+        }
+      ]
+    },
+    {
+      "name": "tablet-landscape",
+      "screenshot": "evidence/37bc9ad45dc1/tablet-landscape.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "game": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 576,
+        "right": 1024,
+        "bottom": 576
+      },
+      "coverage": 75,
+      "document": {
+        "width": 1024,
+        "height": 860,
+        "horizontalOverflow": false,
+        "verticalOverflow": true
+      },
+      "controls": [
+        {
+          "selector": "#start",
+          "text": "Start Night 1\n\u2197",
+          "x": 81.90625,
+          "y": 330.40625,
+          "width": 198.234375,
+          "height": 50.75,
+          "right": 280.140625,
+          "bottom": 381.15625,
+          "insideGame": true,
+          "fontSize": 12.3904,
+          "offscreen": false
+        },
+        {
+          "selector": "summary.",
+          "text": "SHIFT BRIEFING\nControls & survival notes",
+          "x": 13,
+          "y": 679,
+          "width": 998,
+          "height": 46,
+          "right": 1011,
+          "bottom": 725,
+          "insideGame": false,
+          "fontSize": 10,
+          "offscreen": false
+        },
+        {
+          "selector": "#dev-speed",
+          "text": "Speed: 1\u00d7",
+          "x": 110.625,
+          "y": 762,
+          "width": 77.421875,
+          "height": 31,
+          "right": 188.046875,
+          "bottom": 793,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-advance",
+          "text": "+10 seconds",
+          "x": 198.046875,
+          "y": 762,
+          "width": 90.625,
+          "height": 31,
+          "right": 288.671875,
+          "bottom": 793,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-threat",
+          "text": "Bonnie at left door",
+          "x": 298.671875,
+          "y": 762,
+          "width": 143.421875,
+          "height": 31,
+          "right": 442.09375,
+          "bottom": 793,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-outage",
+          "text": "Drain power",
+          "x": 452.09375,
+          "y": 762,
+          "width": 90.625,
+          "height": 31,
+          "right": 542.71875,
+          "bottom": 793,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-dawn",
+          "text": "5 seconds to dawn",
+          "x": 552.71875,
+          "y": 762,
+          "width": 130.21875,
+          "height": 31,
+          "right": 682.9375,
+          "bottom": 793,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        }
+      ],
+      "images": [
+        {
+          "selector": "#title-art",
+          "x": 0,
+          "y": 0,
+          "width": 1024,
+          "height": 576,
+          "right": 1024,
+          "bottom": 576,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": [
+        {
+          "selector": "#activity",
+          "text": "Welcome to the night shift. Check your instructions before clocking in."
+        },
+        {
+          "selector": "header.terminal-header",
+          "text": "F\nFAZBEAR ENTERTAINMENT\nSECURITY OPERATIONS / LOCAL TERMINAL\nNIGHT SHIFT\n// 01"
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.briefing-note",
+          "text": ""
+        },
+        {
+          "selector": "footer.terminal-footer",
+          "text": "LOCAL SURVIVAL PROTOTYPE\nNO SIGNAL LEAVES THIS TERMINAL"
+        }
+      ]
+    },
+    {
+      "name": "laptop",
+      "screenshot": "evidence/37bc9ad45dc1/laptop.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 1366,
+        "height": 768
+      },
+      "game": {
+        "x": 0.328125,
+        "y": 0,
+        "width": 1365.328125,
+        "height": 767.984375,
+        "right": 1365.65625,
+        "bottom": 767.984375
+      },
+      "coverage": 99.9,
+      "document": {
+        "width": 1366,
+        "height": 1052,
+        "horizontalOverflow": false,
+        "verticalOverflow": true
+      },
+      "controls": [
+        {
+          "selector": "#start",
+          "text": "Start Night 1\n\u2197",
+          "x": 109.546875,
+          "y": 441.171875,
+          "width": 264.328125,
+          "height": 68.03125,
+          "right": 373.875,
+          "bottom": 509.203125,
+          "insideGame": true,
+          "fontSize": 16.5206,
+          "offscreen": false
+        },
+        {
+          "selector": "summary.",
+          "text": "SHIFT BRIEFING\nControls & survival notes",
+          "x": 64,
+          "y": 870.984375,
+          "width": 1238,
+          "height": 46,
+          "right": 1302,
+          "bottom": 916.984375,
+          "insideGame": false,
+          "fontSize": 10,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-speed",
+          "text": "Speed: 1\u00d7",
+          "x": 161.625,
+          "y": 953.984375,
+          "width": 77.421875,
+          "height": 31,
+          "right": 239.046875,
+          "bottom": 984.984375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-advance",
+          "text": "+10 seconds",
+          "x": 249.046875,
+          "y": 953.984375,
+          "width": 90.625,
+          "height": 31,
+          "right": 339.671875,
+          "bottom": 984.984375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-threat",
+          "text": "Bonnie at left door",
+          "x": 349.671875,
+          "y": 953.984375,
+          "width": 143.421875,
+          "height": 31,
+          "right": 493.09375,
+          "bottom": 984.984375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-outage",
+          "text": "Drain power",
+          "x": 503.09375,
+          "y": 953.984375,
+          "width": 90.625,
+          "height": 31,
+          "right": 593.71875,
+          "bottom": 984.984375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-dawn",
+          "text": "5 seconds to dawn",
+          "x": 603.71875,
+          "y": 953.984375,
+          "width": 130.21875,
+          "height": 31,
+          "right": 733.9375,
+          "bottom": 984.984375,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        }
+      ],
+      "images": [
+        {
+          "selector": "#title-art",
+          "x": 0.328125,
+          "y": 0,
+          "width": 1365.328125,
+          "height": 767.984375,
+          "right": 1365.65625,
+          "bottom": 767.984375,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": [
+        {
+          "selector": "#activity",
+          "text": "Welcome to the night shift. Check your instructions before clocking in."
+        },
+        {
+          "selector": "header.terminal-header",
+          "text": "F\nFAZBEAR ENTERTAINMENT\nSECURITY OPERATIONS / LOCAL TERMINAL\nNIGHT SHIFT\n// 01"
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.briefing-note",
+          "text": ""
+        },
+        {
+          "selector": "footer.terminal-footer",
+          "text": "LOCAL SURVIVAL PROTOTYPE\nNO SIGNAL LEAVES THIS TERMINAL"
+        }
+      ]
+    },
+    {
+      "name": "desktop",
+      "screenshot": "evidence/37bc9ad45dc1/desktop.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "game": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "right": 1920,
+        "bottom": 1080
+      },
+      "coverage": 100,
+      "document": {
+        "width": 1920,
+        "height": 1364,
+        "horizontalOverflow": false,
+        "verticalOverflow": true
+      },
+      "controls": [
+        {
+          "selector": "#start",
+          "text": "Start Night 1\n\u2197",
+          "x": 153.59375,
+          "y": 620.890625,
+          "width": 371.703125,
+          "height": 94.4375,
+          "right": 525.296875,
+          "bottom": 715.328125,
+          "insideGame": true,
+          "fontSize": 23.232,
+          "offscreen": false
+        },
+        {
+          "selector": "summary.",
+          "text": "SHIFT BRIEFING\nControls & survival notes",
+          "x": 341,
+          "y": 1183,
+          "width": 1238,
+          "height": 46,
+          "right": 1579,
+          "bottom": 1229,
+          "insideGame": false,
+          "fontSize": 10,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-speed",
+          "text": "Speed: 1\u00d7",
+          "x": 438.625,
+          "y": 1266,
+          "width": 77.421875,
+          "height": 31,
+          "right": 516.046875,
+          "bottom": 1297,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-advance",
+          "text": "+10 seconds",
+          "x": 526.046875,
+          "y": 1266,
+          "width": 90.625,
+          "height": 31,
+          "right": 616.671875,
+          "bottom": 1297,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-threat",
+          "text": "Bonnie at left door",
+          "x": 626.671875,
+          "y": 1266,
+          "width": 143.421875,
+          "height": 31,
+          "right": 770.09375,
+          "bottom": 1297,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-outage",
+          "text": "Drain power",
+          "x": 780.09375,
+          "y": 1266,
+          "width": 90.625,
+          "height": 31,
+          "right": 870.71875,
+          "bottom": 1297,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        },
+        {
+          "selector": "#dev-dawn",
+          "text": "5 seconds to dawn",
+          "x": 880.71875,
+          "y": 1266,
+          "width": 130.21875,
+          "height": 31,
+          "right": 1010.9375,
+          "bottom": 1297,
+          "insideGame": false,
+          "fontSize": 11,
+          "offscreen": true
+        }
+      ],
+      "images": [
+        {
+          "selector": "#title-art",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080,
+          "right": 1920,
+          "bottom": 1080,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": [
+        {
+          "selector": "#activity",
+          "text": "Welcome to the night shift. Check your instructions before clocking in."
+        },
+        {
+          "selector": "header.terminal-header",
+          "text": "F\nFAZBEAR ENTERTAINMENT\nSECURITY OPERATIONS / LOCAL TERMINAL\nNIGHT SHIFT\n// 01"
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.",
+          "text": ""
+        },
+        {
+          "selector": "p.briefing-note",
+          "text": ""
+        },
+        {
+          "selector": "footer.terminal-footer",
+          "text": "LOCAL SURVIVAL PROTOTYPE\nNO SIGNAL LEAVES THIS TERMINAL"
+        }
+      ]
+    }
+  ]
+}

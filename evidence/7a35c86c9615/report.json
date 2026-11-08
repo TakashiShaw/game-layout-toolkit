@@ -1,0 +1,410 @@
+{
+  "url": "http://127.0.0.1:8138/?dev=1&manual=1",
+  "gameSelector": "#game",
+  "clicks": [],
+  "browser": "Playwright Chromium; emulated viewports, not physical-device testing",
+  "results": [
+    {
+      "name": "phone-portrait",
+      "screenshot": "evidence/7a35c86c9615/phone-portrait.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "game": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "right": 390,
+        "bottom": 844
+      },
+      "coverage": 100,
+      "document": {
+        "width": 390,
+        "height": 844,
+        "horizontalOverflow": false,
+        "verticalOverflow": false
+      },
+      "controls": [
+        {
+          "selector": "#start",
+          "text": "Start Night 1\n\u2197",
+          "x": 27.296875,
+          "y": 387.859375,
+          "width": 335.390625,
+          "height": 64,
+          "right": 362.6875,
+          "bottom": 451.859375,
+          "insideGame": true,
+          "fontSize": 16,
+          "offscreen": false
+        },
+        {
+          "selector": "#help-open",
+          "text": "How to play",
+          "x": 258.171875,
+          "y": 12,
+          "width": 115.828125,
+          "height": 44,
+          "right": 374,
+          "bottom": 56,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        }
+      ],
+      "images": [
+        {
+          "selector": "#title-art",
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844,
+          "right": 390,
+          "bottom": 844,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": []
+    },
+    {
+      "name": "phone-landscape",
+      "screenshot": "evidence/7a35c86c9615/phone-landscape.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "game": {
+        "x": 0,
+        "y": 0,
+        "width": 844,
+        "height": 390,
+        "right": 844,
+        "bottom": 390
+      },
+      "coverage": 100,
+      "document": {
+        "width": 844,
+        "height": 390,
+        "horizontalOverflow": false,
+        "verticalOverflow": false
+      },
+      "controls": [
+        {
+          "selector": "#start",
+          "text": "Start Night 1\n\u2197",
+          "x": 50.625,
+          "y": 190.546875,
+          "width": 220,
+          "height": 48,
+          "right": 270.625,
+          "bottom": 238.546875,
+          "insideGame": true,
+          "fontSize": 16,
+          "offscreen": false
+        },
+        {
+          "selector": "#help-open",
+          "text": "How to play",
+          "x": 712.171875,
+          "y": 12,
+          "width": 115.828125,
+          "height": 44,
+          "right": 828,
+          "bottom": 56,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        }
+      ],
+      "images": [
+        {
+          "selector": "#title-art",
+          "x": 0,
+          "y": 0,
+          "width": 844,
+          "height": 390,
+          "right": 844,
+          "bottom": 390,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": []
+    },
+    {
+      "name": "tablet-portrait",
+      "screenshot": "evidence/7a35c86c9615/tablet-portrait.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "game": {
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 1024,
+        "right": 768,
+        "bottom": 1024
+      },
+      "coverage": 100,
+      "document": {
+        "width": 768,
+        "height": 1024,
+        "horizontalOverflow": false,
+        "verticalOverflow": false
+      },
+      "controls": [
+        {
+          "selector": "#start",
+          "text": "Start Night 1\n\u2197",
+          "x": 53.75,
+          "y": 384.15625,
+          "width": 191.53125,
+          "height": 64,
+          "right": 245.28125,
+          "bottom": 448.15625,
+          "insideGame": true,
+          "fontSize": 16,
+          "offscreen": false
+        },
+        {
+          "selector": "#help-open",
+          "text": "How to play",
+          "x": 636.171875,
+          "y": 12,
+          "width": 115.828125,
+          "height": 44,
+          "right": 752,
+          "bottom": 56,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        }
+      ],
+      "images": [
+        {
+          "selector": "#title-art",
+          "x": 0,
+          "y": 0,
+          "width": 768,
+          "height": 1024,
+          "right": 768,
+          "bottom": 1024,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": []
+    },
+    {
+      "name": "tablet-landscape",
+      "screenshot": "evidence/7a35c86c9615/tablet-landscape.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "game": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 768,
+        "right": 1024,
+        "bottom": 768
+      },
+      "coverage": 100,
+      "document": {
+        "width": 1024,
+        "height": 768,
+        "horizontalOverflow": false,
+        "verticalOverflow": false
+      },
+      "controls": [
+        {
+          "selector": "#start",
+          "text": "Start Night 1\n\u2197",
+          "x": 71.671875,
+          "y": 390.078125,
+          "width": 191.53125,
+          "height": 64,
+          "right": 263.203125,
+          "bottom": 454.078125,
+          "insideGame": true,
+          "fontSize": 16,
+          "offscreen": false
+        },
+        {
+          "selector": "#help-open",
+          "text": "How to play",
+          "x": 892.171875,
+          "y": 12,
+          "width": 115.828125,
+          "height": 44,
+          "right": 1008,
+          "bottom": 56,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        }
+      ],
+      "images": [
+        {
+          "selector": "#title-art",
+          "x": 0,
+          "y": 0,
+          "width": 1024,
+          "height": 768,
+          "right": 1024,
+          "bottom": 768,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": []
+    },
+    {
+      "name": "laptop",
+      "screenshot": "evidence/7a35c86c9615/laptop.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 1366,
+        "height": 768
+      },
+      "game": {
+        "x": 0,
+        "y": 0,
+        "width": 1366,
+        "height": 768,
+        "right": 1366,
+        "bottom": 768
+      },
+      "coverage": 100,
+      "document": {
+        "width": 1366,
+        "height": 768,
+        "horizontalOverflow": false,
+        "verticalOverflow": false
+      },
+      "controls": [
+        {
+          "selector": "#start",
+          "text": "Start Night 1\n\u2197",
+          "x": 95.609375,
+          "y": 449.34375,
+          "width": 191.53125,
+          "height": 64,
+          "right": 287.140625,
+          "bottom": 513.34375,
+          "insideGame": true,
+          "fontSize": 16,
+          "offscreen": false
+        },
+        {
+          "selector": "#help-open",
+          "text": "How to play",
+          "x": 1234.171875,
+          "y": 12,
+          "width": 115.828125,
+          "height": 44,
+          "right": 1350,
+          "bottom": 56,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        }
+      ],
+      "images": [
+        {
+          "selector": "#title-art",
+          "x": 0,
+          "y": 0,
+          "width": 1366,
+          "height": 768,
+          "right": 1366,
+          "bottom": 768,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": []
+    },
+    {
+      "name": "desktop",
+      "screenshot": "evidence/7a35c86c9615/desktop.png",
+      "pageErrors": [],
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "game": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "right": 1920,
+        "bottom": 1080
+      },
+      "coverage": 100,
+      "document": {
+        "width": 1920,
+        "height": 1080,
+        "horizontalOverflow": false,
+        "verticalOverflow": false
+      },
+      "controls": [
+        {
+          "selector": "#start",
+          "text": "Start Night 1\n\u2197",
+          "x": 134.390625,
+          "y": 549.75,
+          "width": 191.53125,
+          "height": 64,
+          "right": 325.921875,
+          "bottom": 613.75,
+          "insideGame": true,
+          "fontSize": 16,
+          "offscreen": false
+        },
+        {
+          "selector": "#help-open",
+          "text": "How to play",
+          "x": 1788.171875,
+          "y": 12,
+          "width": 115.828125,
+          "height": 44,
+          "right": 1904,
+          "bottom": 56,
+          "insideGame": true,
+          "fontSize": 13,
+          "offscreen": false
+        }
+      ],
+      "images": [
+        {
+          "selector": "#title-art",
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 1080,
+          "right": 1920,
+          "bottom": 1080,
+          "naturalWidth": 1672,
+          "naturalHeight": 941,
+          "objectFit": "contain"
+        }
+      ],
+      "outsideText": []
+    }
+  ]
+}
